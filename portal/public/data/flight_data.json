@@ -1,0 +1,283 @@
+{
+    "lastUpdated": "2026-02-01T17:22:00-03:00",
+    "currency": {
+        "usdToBrl": 5.83
+    },
+    "confirmedFlights": [
+        {
+            "id": "1",
+            "route": "BSB → GRU",
+            "origin": "Brasília",
+            "destination": "São Paulo",
+            "date": "2026-03-11",
+            "time": "15:00",
+            "airline": "LATAM",
+            "flightCode": "LA 3054",
+            "status": "confirmed",
+            "locators": [
+                "DNEQXQ",
+                "IIMWPN"
+            ],
+            "baggage": "2x 23kg inclusos",
+            "price": null
+        },
+        {
+            "id": "2",
+            "route": "GRU → JNB",
+            "origin": "São Paulo",
+            "destination": "Joanesburgo",
+            "date": "2026-03-11",
+            "time": "19:30",
+            "airline": "LATAM",
+            "flightCode": "LA 8058",
+            "status": "confirmed",
+            "duration": "11h10m",
+            "aircraft": "Boeing 787 Dreamliner",
+            "baggage": "2x 23kg inclusos",
+            "price": null
+        },
+        {
+            "id": "3",
+            "route": "JNB → GRU",
+            "origin": "Joanesburgo",
+            "destination": "São Paulo",
+            "date": "2026-04-03",
+            "time": "14:50",
+            "airline": "LATAM",
+            "flightCode": "LA 8059",
+            "status": "confirmed",
+            "baggage": "2x 23kg inclusos",
+            "price": null
+        },
+        {
+            "id": "4",
+            "route": "GRU → BSB",
+            "origin": "São Paulo",
+            "destination": "Brasília",
+            "date": "2026-04-04",
+            "time": "08:00",
+            "airline": "LATAM",
+            "flightCode": "LA 3055",
+            "status": "confirmed",
+            "baggage": "2x 23kg inclusos",
+            "price": null
+        }
+    ],
+    "pendingFlights": [
+        {
+            "id": "5",
+            "route": "JNB → VFA",
+            "origin": "Joanesburgo",
+            "destination": "Victoria Falls",
+            "date": "2026-03-13",
+            "preferredTime": "Manhã",
+            "status": "pending",
+            "priority": "high",
+            "deadline": "2026-02-15",
+            "cashOptions": [
+                {
+                    "airline": "Airlink",
+                    "time": "08:45",
+                    "priceUsd": 165,
+                    "priceBrl": 962,
+                    "baggage": "20kg incluso",
+                    "baggageCost": 0,
+                    "totalBrl": 962,
+                    "reliability": "high",
+                    "bookingUrl": "https://www.google.com/travel/flights?q=Flights%20to%20VFA%20from%20JNB%20on%202026-03-13"
+                },
+                {
+                    "airline": "Airlink",
+                    "time": "14:00",
+                    "priceUsd": 158,
+                    "priceBrl": 921,
+                    "baggage": "20kg incluso",
+                    "baggageCost": 0,
+                    "totalBrl": 921,
+                    "reliability": "high",
+                    "bookingUrl": "https://www.google.com/travel/flights?q=Flights%20to%20VFA%20from%20JNB%20on%202026-03-13"
+                },
+                {
+                    "airline": "FlySafair",
+                    "time": "10:30",
+                    "priceUsd": 101,
+                    "priceBrl": 589,
+                    "baggage": "Não incluso",
+                    "baggageCost": 155,
+                    "totalBrl": 744,
+                    "reliability": "medium",
+                    "bookingUrl": "https://www.flysafair.co.za/"
+                },
+                {
+                    "airline": "Fastjet",
+                    "time": "12:00",
+                    "priceUsd": 140,
+                    "priceBrl": 816,
+                    "baggage": "20kg incluso",
+                    "baggageCost": 0,
+                    "totalBrl": 816,
+                    "reliability": "low",
+                    "bookingUrl": "https://www.fastjet.com/"
+                }
+            ],
+            "milesOptions": [
+                {
+                    "program": "United MileagePlus",
+                    "miles": 15500,
+                    "taxesUsd": 10,
+                    "valuePerMile": 1.0,
+                    "verdict": "bad",
+                    "bookingUrl": "https://www.united.com/en/us/book-flight/united-one-way"
+                }
+            ],
+            "recommendation": {
+                "type": "cash",
+                "option": "Airlink 14:00",
+                "reason": "Bagagem inclusa, companhia confiável, bom preço",
+                "action": "Comprar agora - preço bom",
+                "bookingUrl": "https://www.google.com/travel/flights?q=Flights%20to%20VFA%20from%20JNB%20on%202026-03-13"
+            },
+            "priceTarget": {
+                "usd": 180,
+                "brl": 1050
+            },
+            "currentBestPrice": {
+                "usd": 101,
+                "brl": 744,
+                "airline": "FlySafair"
+            }
+        },
+        {
+            "id": "6",
+            "route": "VFA → JNB → CPT",
+            "origin": "Victoria Falls",
+            "destination": "Cape Town",
+            "via": "Joanesburgo",
+            "date": "2026-03-16",
+            "preferredTime": "Manhã (chegar CPT anoitecer)",
+            "status": "pending",
+            "priority": "high",
+            "deadline": "2026-02-15",
+            "cashOptions": [
+                {
+                    "airline": "Airlink + Airlink",
+                    "legs": [
+                        {
+                            "route": "VFA→JNB",
+                            "time": "08:15-10:00",
+                            "price": 150
+                        },
+                        {
+                            "route": "JNB→CPT",
+                            "time": "12:45-15:00",
+                            "price": 95
+                        }
+                    ],
+                    "priceUsd": 245,
+                    "priceBrl": 1428,
+                    "baggage": "20kg transferido direto",
+                    "baggageCost": 0,
+                    "totalBrl": 1428,
+                    "connectionTime": "2h45",
+                    "reliability": "high",
+                    "recommended": true,
+                    "bookingUrl": "https://www.google.com/travel/flights?q=Flights%20to%20CPT%20from%20VFA%20on%202026-03-16"
+                },
+                {
+                    "airline": "Airlink + FlySafair",
+                    "legs": [
+                        {
+                            "route": "VFA→JNB",
+                            "time": "08:15-10:00",
+                            "price": 150
+                        },
+                        {
+                            "route": "JNB→CPT",
+                            "time": "14:30-16:45",
+                            "price": 65
+                        }
+                    ],
+                    "priceUsd": 215,
+                    "priceBrl": 1253,
+                    "baggage": "Retirar e despachar novamente",
+                    "baggageCost": 155,
+                    "totalBrl": 1408,
+                    "connectionTime": "4h30",
+                    "reliability": "medium",
+                    "bookingUrl": "https://www.skyscanner.com.br/transport/flights/vfa/cpt/260316/"
+                }
+            ],
+            "milesOptions": [],
+            "recommendation": {
+                "type": "cash",
+                "option": "Airlink + Airlink ($245)",
+                "reason": "Bagagem passada direto, mesma companhia, conexão confortável",
+                "action": "Comprar agora",
+                "bookingUrl": "https://www.google.com/travel/flights?q=Flights%20to%20CPT%20from%20VFA%20on%202026-03-16"
+            },
+            "priceTarget": {
+                "usd": 280,
+                "brl": 1632
+            },
+            "currentBestPrice": {
+                "usd": 215,
+                "brl": 1408,
+                "airline": "Airlink + FlySafair"
+            }
+        }
+    ],
+    "budget": {
+        "international": {
+            "planned": 14600,
+            "spent": 14484,
+            "status": "under"
+        },
+        "internal": {
+            "planned": 4000,
+            "estimated": 2400,
+            "status": "estimated"
+        },
+        "total": {
+            "planned": 18600,
+            "current": 16884,
+            "status": "good"
+        }
+    },
+    "buyingTips": {
+        "bestTimeToBook": "Terça e Quarta-feira",
+        "idealAdvance": "3-6 semanas para voos regionais África",
+        "toolsToUse": [
+            "Google Flights",
+            "Skyscanner",
+            "Seats.aero para milhas"
+        ],
+        "warnings": [
+            "Fastjet tem histórico de cancelamentos",
+            "FlySafair cobra bagagem separado",
+            "Conexões em JNB: mínimo 2h recomendado"
+        ]
+    },
+    "priceHistory": [
+        {
+            "date": "2026-02-01",
+            "route": "JNB→VFA",
+            "airline": "Airlink",
+            "priceUsd": 158,
+            "status": "target"
+        },
+        {
+            "date": "2026-02-01",
+            "route": "VFA→JNB",
+            "airline": "Airlink",
+            "priceUsd": 150,
+            "status": "target"
+        },
+        {
+            "date": "2026-02-01",
+            "route": "JNB→CPT",
+            "airline": "FlySafair",
+            "priceUsd": 65,
+            "status": "excellent"
+        }
+    ]
+}
