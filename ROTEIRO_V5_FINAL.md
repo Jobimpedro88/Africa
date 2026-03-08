@@ -6,14 +6,57 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 ---
 
 ## 🛫 Resumo de Voos e Logística (Confirmados)
+
 | Data | Trecho | Voo | Horário | Ref. | Logística Associada |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **11/03** | BSB -> GRU | LA 3528 | 15:00 - 16:45 | Latam | Levar casaco para o avião. |
-| **11/03** | GRU -> JNB | LA 8058 | 22:45 - 12:40 | Latam | **Carro 1:** Retirar em JNB 12/03 às 14:00. |
+| **11/03** | GRU -> JNB | LA 8058 | 22:45 - 12:40+1 | Latam | **Carro 1:** Retirar em JNB 12/03 às 14:00. |
 | **21/03** | JNB -> PLZ | SA 405 | 11:25 - 13:00 | SAA | **Carro 1:** Devolver JNB 21/03 às 09:30.<br>**Carro 2:** Retirar PLZ 21/03 às 13:45. |
 | **01/04** | CPT -> JNB | SA 372 | 20:25 - 22:25 | SAA | **Carro 2:** Devolver CPT 01/04 às 18:30 (Aeroporto). |
 | **03/04** | JNB -> GRU | LA 8059 | 14:50 - 20:25 | Latam | Transfer Hotel->Aeroporto às 11:30. |
 | **03/04** | GRU -> BSB | LA 4703 | 00:35 - 02:20 | Latam | Fim da viagem. |
+
+---
+
+### 🧳 Franquia de Bagagem por Companhia
+
+#### ✈️ LATAM (Voos Internacionais: BSB/GRU ↔ JNB)
+> [Política Oficial Latam](https://www.latamairlines.com/br/pt/paginas-de-ajuda/franquia-de-bagagem)
+
+| Tipo | Quantidade | Peso Máx. | Dimensões Máx. |
+| :--- | :--- | :--- | :--- |
+| **Bagagem de Porão** | **1 mala** (tarifa econômica padrão) | **23 kg** por mala | 158 cm linear (C+L+A) |
+| Mala para sobrepeso | Aceita com taxa | 24–32 kg | 158 cm linear |
+| Acima de 32 kg | ❌ **Não aceita** como bagagem | — | — |
+| **Bagagem de Mão** | 1 mochila/bolsa pequena + 1 artigo pessoal | 10 kg total | 55 × 35 × 25 cm |
+
+> ⚠️ **Atenção:** A franquia depende da **tarifa comprada**. Verifique o e-ticket — tarifas "Light" não incluem nenhuma mala despachada. Se sua tarifa incluir 1 mala, a segunda tem custo extra (~R$ 400–600).
+
+---
+
+#### ✈️ SAA — South African Airways (Voos Domésticos: JNB-PLZ e CPT-JNB)
+> [Política Oficial SAA](https://www.flysaa.com/za/en/plan-your-travel/baggage/check-in-baggage)
+
+| Tipo | Quantidade | Peso Máx. | Dimensões Máx. |
+| :--- | :--- | :--- | :--- |
+| **Bagagem de Porão** | **1 mala** | **23 kg** | 158 cm linear (C+L+A) |
+| Acima de 32 kg | ❌ Não aceita — enviar como carga | — | — |
+| **Bagagem de Mão** | 1 peça | 8 kg | 56 × 36 × 23 cm |
+
+> ⚠️ **Atenção:** SAA cobra por peça, não por peso total. A segunda mala despachada tem taxa extra. Em voos domésticos curtos (JNB-PLZ são 1h35), costumam ser rigorosos com excesso.
+
+---
+
+### 📏 Referência Rápida: Tamanhos de Mala Comuns
+
+| Tamanho | Altura aprox. | Peso típico vazio | Ideal para |
+| :--- | :--- | :--- | :--- |
+| Pequena (20") | 50 cm | ~2,5 kg | Cabine (low-cost) |
+| Média (24") | 60 cm | ~3,5 kg | ✅ Despachada ideal |
+| **Grande (28–29")** | 70–75 cm | ~4–5 kg | ✅ **Decisão de vocês** — cabe nos limites de 23kg |
+
+> 💡 **Conclusão:** Mala grande 28–29" cabe perfeitamente dentro dos 23 kg da Latam e SAA, contanto que o conteúdo não exceda ~18–19 kg líquidos (subtraindo o peso da própria mala). Uma mala grande vazia pesa ~4–5 kg, então o limite prático de conteúdo é **~18–19 kg**.
+
 
 ---
 
