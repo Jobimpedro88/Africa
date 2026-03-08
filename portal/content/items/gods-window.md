@@ -1,22 +1,20 @@
 ---
-title: God's Window
-type: Activity
+title: "God's Window"
+type: "Activity"
 locations: []
 coordinates:
   lat: -24.8778
   lng: 30.8889
-tags:
-  - Mirante
+tags: ["Mirante"]
 checklist: true
 rating: 5
-time: 07h00 - 17h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA'
-  official: 'https://www.mpumalanga.com/things-to-do/nature-reserves/gods-window'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=zVvX6Kz1D2o'
+  googleMaps: ''
+  official: ''
 details:
-  tips: Suba até o topo da colina (Rain Forest) para ter a vista de 360 graus.
+  tips: >-
+    Não pare no primeiro mirante, suba até a Rain Forest (Floresta Tropical).
 ---
 
-A Janela de Deus. Trilha para a Rain Forest também.
+Vista panorâmica do Lowveld a 900m de altura.

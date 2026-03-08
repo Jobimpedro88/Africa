@@ -1,25 +1,20 @@
 ---
-title: Mdluli Safari Lodge
-type: Accommodation
+title: "Mdluli Safari Lodge"
+type: "Accommodation"
 locations: []
 coordinates:
   lat: -25.025
   lng: 31.24
-tags:
-  - Safari
-  - Luxo
+tags: ["Safari","Luxo"]
 checklist: true
 rating: 5
-time: 'Game Drives: 05h30 / 16h00'
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/YtqFkP8Rz7nK4V9Z7'
+  googleMaps: ''
   official: 'https://mdlulisafarilodge.co.za/'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=9L9jR09_o28'
 details:
   tips: >-
-    Faça amizade com seu Ranger e diga os animais que você faz mais questão de
-    ver!
+    Fale com o Ranger para ver o que você deseja. Não perca o picnic na rocha de granito!
 ---
 
-Entre pelo Phabeni Gate. Inclui Game Drives a R1.170.
+Hospedagem imersiva no Kruger.

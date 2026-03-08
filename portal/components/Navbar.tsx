@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Home, Map as MapIcon, BookOpen, Plane, CheckSquare } from 'lucide-react';
+import { Home, Map as MapIcon, BookOpen, Plane, CheckSquare, Luggage } from 'lucide-react';
 
 export default function Navbar() {
     return (
@@ -23,7 +23,11 @@ export default function Navbar() {
                 </Link>
                 <Link href="/checklist" className="flex items-center gap-2 text-sm font-medium text-gray-600 hover:text-[var(--savanna-terracotta)] transition-colors">
                     <CheckSquare size={18} />
-                    <span className="hidden sm:inline">Checklist</span>
+                    <span className="hidden sm:inline">Ações</span>
+                </Link>
+                <Link href="/mala" className="flex items-center gap-2 text-sm font-medium text-gray-600 hover:text-[var(--savanna-terracotta)] transition-colors">
+                    <Luggage size={18} />
+                    <span className="hidden sm:inline">Mala</span>
                 </Link>
             </div>
         </nav>

@@ -1,23 +1,20 @@
 ---
-title: Mac Mac Falls
-type: Activity
+title: "Mac Mac Falls"
+type: "Activity"
 locations: []
 coordinates:
   lat: -25
   lng: 30.8167
-tags:
-  - Natureza
-  - Cachoeira
+tags: ["Natureza","Cachoeira"]
 checklist: true
 rating: 5
-time: 08h00 - 17h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA'
-  official: 'https://www.mpumalanga.com/things-to-do/nature-reserves/mac-mac-falls'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=s5RjF2r8-P0'
+  googleMaps: ''
+  official: ''
 details:
-  tips: Desça até a plataforma de observação. Tenha moedas (ZAR 50) para a entrada.
+  tips: >-
+    ZAR 50 por pessoa. Vista linda da queda de 65m.
 ---
 
-Entrada: ZAR 50. Cachoeira linda de 65m.
+Uma das cachoerias mais clássicas da região.

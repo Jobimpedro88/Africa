@@ -1,25 +1,20 @@
 ---
-title: Three Rondavels
-type: Activity
+title: "Three Rondavels"
+type: "Activity"
 locations: []
 coordinates:
   lat: -24.5684
   lng: 30.8037
-tags:
-  - Mirante
-  - Cânion
+tags: ["Mirante","Cânion"]
 checklist: true
 rating: 5
-time: 07h00 - 17h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8'
-  official: 'https://www.krugerpark.co.za/africa_three_rondavels.html'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=4d0U5G3Q3mU'
+  googleMaps: ''
+  official: ''
 details:
   tips: >-
-    Melhor horário para fotos é depois das 14h, com o sol iluminando as
-    formações.
+    A melhor luz para fotos é no final da tarde ou começo da manhã.
 ---
 
-A vista mais clássica e icônica do Blyde River Canyon.
+O terceiro maior cânion do mundo.

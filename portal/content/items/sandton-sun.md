@@ -1,25 +1,20 @@
 ---
-title: Sandton Sun
-type: Accommodation
+title: "Sandton Sun"
+type: "Accommodation"
 locations: []
 coordinates:
   lat: -26.1086
   lng: 28.0526
-tags:
-  - Luxo
-  - Shopping
+tags: ["Sandton","Conexão"]
 checklist: true
 rating: 5
-time: Check-in 14h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA'
-  official: 'https://www.tsogosun.com/sandton-sun-hotel'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=vV7YJm74xKs'
+  googleMaps: ''
+  official: 'https://www.southernsun.com/sandton-sun'
 details:
   tips: >-
-    Aproveite a conexão direta e coberta por dentro do hotel para o Sandton City
-    Mall e Mandela Square.
+    O acesso ao shopping permite jantar fora sem precisar de carro/uber.
 ---
 
-Conectado no shopping Sandton City. Muito seguro e chique.
+Hotel integrado ao complexo Nelson Mandela Square.

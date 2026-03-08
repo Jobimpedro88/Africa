@@ -17,7 +17,8 @@
         "selectedItems": [
             "jnb-greenmotion",
             "alzu-petroport",
-            "walkerson-dullstroom"
+            "cinzaco-accommodation",
+            "mrs-simpsons"
         ],
         "alternativeItems": []
     },
@@ -28,6 +29,7 @@
         "summary": "A Rota das Cachoeiras",
         "selectedItems": [
             "mac-mac-falls",
+            "the-glass-house",
             "graskop-gorge",
             "angels-view"
         ],
@@ -42,7 +44,7 @@
             "gods-window",
             "bourkes-luck",
             "three-rondavels",
-            "angels-view"
+            "the-chubby-pig"
         ],
         "alternativeItems": []
     },
@@ -72,6 +74,7 @@
         "location": "Kruger Central",
         "summary": "Mudança para Satara",
         "selectedItems": [
+            "tshokwane-picnic",
             "sleepover-orpen"
         ],
         "alternativeItems": []
@@ -95,7 +98,9 @@
             "ngwenya-glass",
             "summerfield-resort"
         ],
-        "alternativeItems": []
+        "alternativeItems": [
+            "foresters-arms"
+        ]
     },
     {
         "day": 10,
@@ -103,6 +108,7 @@
         "location": "Eswatini",
         "summary": "Cultura Swazi",
         "selectedItems": [
+            "malandelas-farm",
             "summerfield-resort"
         ],
         "alternativeItems": []
@@ -114,6 +120,7 @@
         "summary": "Voo & Chegada Garden Route",
         "selectedItems": [
             "sixt-plz",
+            "ginger-restaurant",
             "radisson-plz"
         ],
         "alternativeItems": []
@@ -136,6 +143,7 @@
         "summary": "Trilhas & Mirantes",
         "selectedItems": [
             "robberg",
+            "enricos-restaurant",
             "bungalow-plett"
         ],
         "alternativeItems": []
@@ -146,6 +154,7 @@
         "location": "Plettenberg Bay",
         "summary": "Knysna Ostras",
         "selectedItems": [
+            "emily-moon",
             "bungalow-plett"
         ],
         "alternativeItems": []
@@ -166,6 +175,7 @@
         "location": "Cape Town",
         "summary": "R44 & Camps Bay",
         "selectedItems": [
+            "creation-wines",
             "marly-camps-bay"
         ],
         "alternativeItems": []
@@ -177,6 +187,7 @@
         "summary": "A Montanha & Cidade",
         "selectedItems": [
             "table-mountain",
+            "willoughby-and-co",
             "marly-camps-bay"
         ],
         "alternativeItems": []
@@ -187,6 +198,7 @@
         "location": "Cape Town",
         "summary": "Península do Cabo",
         "selectedItems": [
+            "harbour-house",
             "marly-camps-bay"
         ],
         "alternativeItems": []
@@ -197,6 +209,8 @@
         "location": "Cape Town",
         "summary": "Mercados",
         "selectedItems": [
+            "oranjezicht-market",
+            "the-pot-luck-club",
             "marly-camps-bay"
         ],
         "alternativeItems": []
@@ -207,6 +221,7 @@
         "location": "Winelands",
         "summary": "Os Jardins de Babylonstoren",
         "selectedItems": [
+            "babel",
             "babylonstoren"
         ],
         "alternativeItems": []
@@ -238,7 +253,7 @@
         "location": "Johannesburg",
         "summary": "Soweto & Sandton",
         "selectedItems": [
-            "soweto-tour",
+            "the-grillhouse",
             "sandton-sun"
         ],
         "alternativeItems": []

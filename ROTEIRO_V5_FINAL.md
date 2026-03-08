@@ -460,20 +460,30 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
     *   *Devolução:* 01/04 às 14:30 (CPT - Central Blvd).
     *   *Status:* Pré-pago. Lembre-se do **Status Match** online para garantir o upgrade!
 
-### **2. 🏨 Hotéis (Prioridade Máxima)**
-1.  **🚨 Babylonstoren (Winelands):** [Reservar no Booking](https://www.booking.com/hotel/za/babylonstoren.html)
-    *   *Por que:* Esgota meses antes. Se não tiver vaga no hotel, reserve o **Jantar no Babel** imediatamente pelo site deles.
-    *   *Alternativa:* [Delaire Graff](https://www.booking.com/hotel/za/delaire-graff-lodges-and-spa.html) ou [Boschendal](https://www.booking.com/hotel/za/boschendal-farm-estate.html).
-2.  **Johannesburg (Final):** [Sandton Sun (Booking)](https://www.booking.com/hotel/za/sandton-sun.html)
-    *   *Por que:* Conectado ao shopping (segurança total).
-    *   *Alternativa:* [Davinci Hotel](https://www.booking.com/hotel/za/davinci-hotel-and-suites-on-nelson-mandela-square.html).
-3.  **Plett (Garden Route):** [The Bungalow (Booking)](https://www.booking.com/hotel/za/the-bungalow-plettenberg-bay.html)
-    *   *Alternativa:* [Sky Villa Boutique](https://www.booking.com/hotel/za/sky-villa-boutique.html).
+### **2. 🏨 Hotéis Pendentes (Reservar Agora)**
 
-### **3. 🍽️ Restaurantes & Passeios**
-*   **Marble (JNB):** [Reservar no Dineplan](https://www.dineplan.com/restaurants/marble). *Essencial para a despedida.*
-*   **Pot Luck Club (CPT):** [Reservar no Dineplan](https://www.dineplan.com/restaurants/the-pot-luck-club-cape-town). *Vista 360 e comida incrível.*
-*   **Franschhoek Wine Tram:** [Comprar Tickets (Site Oficial)](https://winetram.co.za/). *Linha Navy ou Orange.*
+| Destino & Datas | Região Ideal | Sugestão de Hotel | Preço Médio (Diária) | Link para Reserva |
+| :--- | :--- | :--- | :--- | :--- |
+| **Eswatini**<br>*(19 a 21/03 - 2 noites)* | Ezulwini Valley (Montanhas) | **Summerfield Botanical**<br>*Alt:* Foresters Arms / Mogi | ~R$ 1.800<br>*(Alt: R$900 - 1.300)* | [Summerfield.co.sz](https://summerfield.co.sz/)<br>[Foresters Arms](https://forestersarms.co.za/) |
+| **Port Elizabeth**<br>*(21 a 22/03 - 1 noite)* | Summerstrand (Beira-mar) | **Radisson Blu PE**<br>*Alt:* The Beach Hotel | ~R$ 900 | [Radisson Blu](https://www.radissonhotels.com/en-us/hotels/radisson-blu-port-elizabeth)<br>[The Beach Hotel](https://www.thebeachhotel.co.za/) |
+| **Plettenberg Bay**<br>*(22 a 25/03 - 3 noites)* | Praia (Pé na areia) | **The Bungalow Plett**<br>*Alt:* Sky Villa Boutique | ~R$ 1.500 | [Booking.com (Bungalow)](https://www.booking.com/hotel/za/the-bungalow-plettenberg-bay.html) |
+| **Hermanus**<br>*(25 a 26/03 - 1 noite)* | Costa (Frente pro mar) | **The Marine Hermanus** | ~R$ 2.500 | [The Marine Hotel](https://www.themarinehotel.co.za/) |
+| **Cape Town**<br>*(26 a 30/03 - 4 noites)* | Camps Bay (Vista Mar/Montanha) | **The Marly Boutique**<br>*Alt:* POD Camps Bay ou Airbnb | ~R$ 2.800 | [The Marly](https://themarly.co.za/)<br>[POD](https://www.pod.co.za/) |
+| **Winelands**<br>*(30/03 a 01/04 - 2 noites)* | Franschhoek / Stellenbosch | **Boschendal**<br>*Alt:* Lanzerac | ~R$ 7.500<br>*(Alt: R$ 9.800)* | [Booking.com (Boschendal)](https://www.booking.com/hotel/za/boschendal-farm-estate.html)<br>[Booking.com (Lanzerac)](https://www.booking.com/hotel/za/lanzerac.html) |
+| **Johannesburg**<br>*(01 a 03/04 - 2 noites)* | Sandton (Conectado ao Mall) | **Sandton Sun**<br>*Alt:* Davinci Hotel | ~R$ 1.600 | [Booking.com (Sandton Sun)](https://www.booking.com/hotel/za/sandton-sun.html)<br>[Booking.com (Davinci)](https://www.booking.com/hotel/za/davinci-hotel-and-suites-on-nelson-mandela-square.html) |
+
+### **3. 🍽️ Restaurantes & Passeios (Reservar Agora)**
+
+| Local & Data | Estabelecimento | Necessidade & Custo | Link / Onde Reservar |
+| :--- | :--- | :--- | :--- |
+| **Dullstroom** (12/03) | **Mrs Simpson's** | Recomendado. Popular à noite na cidade. | [mrssimpsons.co.za](https://mrssimpsons.co.za/) |
+| **Graskop** (13/03) | **The Glass House** | Indispensável! Pequeno e esgota muito rápido. | +27 13 767 1108 (Telefone) |
+| **Port Elizabeth** (21/03) | **Ginger The Restaurant** | Recomendado (Fine Dining de frente para o mar). | [ginger-restaurant.co.za](https://ginger-restaurant.co.za/) |
+| **Cape Town** (29/03) | **The Pot Luck Club** | **Urgente!** Abre 4 meses antes. Custo de reserva. | [Dineplan (Pot Luck)](https://www.dineplan.com/restaurants/the-pot-luck-club-cape-town) |
+| **Winelands** (30/03) | **Babel (Babylonstoren)** | **Urgente!** Abre 9 meses antes online. Essencial. | [babylonstoren.com/babel](https://babylonstoren.com/babel) |
+| **Johannesburg** (02/04) | **Marble** | **Urgente!** Abre 60 dias antes via Dineplan. | [Dineplan (Marble)](https://www.dineplan.com/restaurants/marble) |
+| **Passeios** | **Table Mountain (CT)** | Compre dias antes se o tempo abrir (Evite vento). | [Webtickets](https://www.webtickets.co.za/) |
+| **Passeios** | **Wine Tram (Franschhoek)** | Compre antecipado. Linhas esgotam no verão! | [winetram.co.za](https://winetram.co.za/) |
 
 ---
 
@@ -481,5 +491,369 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 - [x] **Voos Brasil-África:** Confirmados (Latam).
 - [x] **Safari Lodge:** Mdluli Confirmado.
 - [x] **Voos Internos (Todos):** SAA (JNB-PLZ e CPT-JNB) Confirmados ✅.
-- [ ] **Hotéis Pendentes:** Babylonstoren, Sandton Sun, Plett, CPT, Hermanus.
+- [ ] **Hotéis Pendentes:** 7 destinos pendentes listados detalhadamente na tabela acima.
 - [ ] **Carros:** Reservar Carro 1 e Carro 2 conforme horários acima.
+
+---
+
+## 🧳 GUIA COMPLETO DA MALA (Jobim & Paula)
+
+### 🗝️ Filosofia & Estratégia
+
+**Formato:** 1 mala de mão + 1 mochila (item pessoal) por pessoa. Sem bagagem despachada por escolha — mas saiba que os **4 voos já incluem 1 despachada de 23kg por pessoa** como backup.
+
+**Franquias Oficiais Confirmadas (dos seus PDFs):**
+| Companhia | Mala de Mão | Item Pessoal (mochila) | Despachada |
+| :--- | :--- | :--- | :--- |
+| **LATAM** (BSB/GRU/JNB) | 55x35x25cm · **12kg** | 45x35x20cm · 10kg | 1 peça · 23kg ✅ Incluída |
+| **SAA** (JNB-PLZ e CPT-JNB) | 56x36x23cm · **8kg** | Cabe sob o assento | 1 peça · 23kg ✅ Incluída |
+| **⚠️ Gargalo real:** | **8kg** (limite SAA é o menor) | Item pessoal livre | Não precisam usar |
+
+> **Conclusão prática:** Mante a mala de mão abaixo de **8kg** para não ter surpresa nos voos SAA domésticos. A mochila vai embaixo do assento — sem restrição de peso na SAA.
+
+**Estratégia de Lavanderia:** Pedir serviço de lavanderia a cada 5-6 dias (todos os lodges e hotéis do roteiro oferecem). Isso significa que basta levar roupas para **~7 dias** e repetir o ciclo 3x na viagem.
+
+**Paleta de Cores Coordenadas para Fotos:**
+- **Jobim:** Navy (azul marinho) · Branco off-white · Khaki/Bege · Olive Green
+- **Paula:** Terracota/Tijolo · Cream/Cru · Sage Green · Camel/Bege
+
+---
+
+### 🧔 PEDRO JOBIM — Mala de Mão (8kg máx · 55x35x25cm)
+
+#### 👕 Camisetas & Tops (6 peças)
+| Peça | Cor | Tecido | Uso Principal |
+| :--- | :--- | :--- | :--- |
+| Camiseta básica | Branco off-white | Algodão Pima 180g ou Merino 150g | Casual, praia, foto clássica |
+| Camiseta básica | Azul Marinho | Algodão Pima 180g ou Merino 150g | Casual, cidade, combinação geral |
+| Polo shirt | Azul Marinho | Piquê (algodão stretch) | Jantares smart casual, winelands |
+| Polo shirt | Khaki/Bege | Piquê (algodão stretch) | Jantares, viagem geral |
+| Camisa de linho | Off-White/Cru | 100% Linho lavado (não amassa) | Jantar fino: Marble, Pot Luck Club, Babel |
+| Camiseta manga longa UV | Olive Green | Quick-dry polyester UPF 50+ | Safári (manhãs frias 6°C + proteção mosquito) |
+
+#### 👖 Calças, Shorts & Bermudas (3 peças)
+| Peça | Cor | Tecido | Uso Principal |
+| :--- | :--- | :--- | :--- |
+| Calça cargo convertível (zip-off) | Khaki | Nylon/Polyester ripstop | Safári, trilhas, dias quentes |
+| Calça chino slim | Navy Escuro | Algodão stretch fino | **Usar no avião.** Jantares, Cape Town, winelands |
+| Short/Bermuda | Khaki ou Olive | Quick-dry polyester | Praia, pool, hotel, dias de calor |
+
+> *Dica: Viaje de chino navy no avião — chega em JNB já apresentável, libera espaço na mala.*
+
+#### 👟 Calçados (2 na mala + 1 nos pés)
+| Calçado | Cor | Tipo | Onde Usar |
+| :--- | :--- | :--- | :--- |
+| Tênis trail/hiking | Cinza/Bege neutro | Low-cut waterproof (ex: Salomon X-Ultra, Merrell Moab) | **Usar no avião.** Robberg, Tsitsikamma, trilhas, dias gerais |
+| Tênis clean/casual | Branco ou Bege | Couro ou vegan leather limpo (ex: Veja, Common Projects) | Na mala. Jantares, Cape Town, winelands |
+| Sandália/chinelo | Preto ou neutro | EVA leve (ex: Havaianas slim ou Birkenstock EVA) | Na mala. Hotel, praia, pool |
+
+> *Embale calçados em sacos de tecido para não sujar a roupa.*
+
+#### 🧣 Camadas & Acessórios (4 peças)
+| Peça | Cor | Tipo | Uso |
+| :--- | :--- | :--- | :--- |
+| Fleece leve (mid-layer) | Cinza Mescla ou Navy | Microfleece (ex: Patagonia Better Sweater fino) | Safári 6am, avião, restaurantes com AC, CT à noite |
+| Capa de chuva packable | Olive ou Cinza | Windbreaker impermeável ultraleve (cabe no bolso) | Garden Route (chuva), Cape Town (vento), trilhas |
+| Boné aba larga | Khaki/Bege | Cotton twill com proteção UV | Safári, sol africano forte |
+| Óculos de sol | Lente marrom ou cinza | UV400 polarizado (proteção máxima) | Todo dia |
+
+#### 🩲 Peças Íntimas & Meias
+- **7x Cuecas boxer** — Merino wool ou bambu (menos odor, seca rápido — pode usar 2x antes de lavar)
+- **5x Meias** — 3 pares altura média merino para trilhas + 2 pares tornozelo casual
+- **1x Meia de compressão** — Para o voo longo GRU→JNB (11h) — previne trombose e mincha o pé
+- **1x Shorts de dormir** — Leve, pode dobrar como bermuda reserva
+- *A camiseta casual branca serve como camiseta de dormir — não precisa item separado*
+
+---
+
+### 👩 PAULA PORTO MOREM — Mala de Mão (8kg máx · 55x35x25cm)
+
+> *Nota importante: Paula tem restrição alimentar (sem glúten, sem lactose — confirmado nas passagens SAA). Ver seção de suplementos para versões adequadas.*
+
+#### 👚 Tops & Blusas (7 peças)
+| Peça | Cor | Tecido | Uso Principal |
+| :--- | :--- | :--- | :--- |
+| Camiseta básica | Cream/Off-White | Algodão Pima 180g ou Merino 150g | Versátil para absolutamente tudo |
+| Camiseta básica | Terracota | Algodão Pima 180g ou Merino 150g | Safári, casual, foto impactante |
+| Blusa de tecido leve | Dusty Rose/Rosa seco | Crepe ou seda sintética (não amassa) | Jantares finos, winelands, Cape Town |
+| Blusa manga longa | Camel/Bege | Linho ou viscose | Safári (mosquitos + estilo) + vinícolas |
+| Camiseta manga longa UV | Sage Green | Quick-dry polyester UPF 50+ | Safári (manhãs frias + proteção mosquito) |
+| Regata | Branco | Ribbed cotton canelado | Por baixo ou solo, praia |
+| Regata | Bege Nude | Ribbed cotton canelado | Por baixo das blusas, foto natural |
+
+#### 👗 Vestidos (2 peças — as peças-chave para as fotos)
+| Peça | Cor | Tecido | Uso |
+| :--- | :--- | :--- | :--- |
+| Vestido midi casual | Terracota ou Camel | Viscose ou Crepe (não amassa, leve) | **Foto principal da viagem.** Winelands, jantares, Cape Town |
+| Sundress/Vestido de praia | Cream ou estampa neutra | Algodão leve ou musselina | Plettenberg Bay, Camps Bay, casual |
+
+#### 👖 Calças & Saia (3 peças)
+| Peça | Cor | Tecido | Uso |
+| :--- | :--- | :--- | :--- |
+| Calça wide-leg ou pantalona leve | Bege/Khaki | Linho ou viscose | Safári com estilo, viagem geral, winelands |
+| Legging/calça conforto | Preto | Supplex ou cotton stretch | **Usar no avião.** Dias frios, atividade física |
+| Saia midi | Camel ou Cream | Seda sintética ou crepe | Jantares finos, winelands, Cape Town noturno |
+
+> *Dica: Viaje de legging preta no avião — conforto máximo nas 11h de voo.*
+
+#### 👡 Calçados (2 na mala + 1 nos pés)
+| Calçado | Cor | Tipo | Onde Usar |
+| :--- | :--- | :--- | :--- |
+| Tênis confortável | Branco | Tênis limpo, sola baixa (ex: Veja Esplar, New Balance 327) | **Usar no avião.** Cidade, trilhas leves, dias gerais |
+| Sandália plana elegante | Nude ou Dourada | Couro ou sintético tira fina (ex: Birkenstock Arizona, Schutz) | Na mala. Jantares, winelands, praia chique |
+| Chinelo leve | Bege/Branco | EVA (Havaianas Slim ou similar) | Na mala. Hotel, praia, pool |
+
+#### 🧣 Camadas & Acessórios (5 peças)
+| Peça | Cor | Tipo | Uso |
+| :--- | :--- | :--- | :--- |
+| Cardigan leve | Bege/Cream ou Sage Green | Tricô fino (cotton ou merino) | Cape Town à noite (12°C!), avião, restaurantes AC |
+| Capa de chuva packable | Salmão suave ou Olive | Windbreaker ultraleve (cabe na bolsa) | Garden Route (chuva), Cape Town (vento) |
+| Lenço/Echarpe grande | Cream ou estampa neutra | Viscose ou chiffon | Frio, wrap de praia, foto, avião |
+| Chapéu de palha dobrável ou boné | Natural/Bege | Palha ou cotton | Sol do safári, praia, foto icônica |
+| Óculos de sol | Lente marrom degradê | UV400 polarizado | Todo dia |
+
+#### 🩱 Peças Íntimas, Meias & Beachwear
+- **7x Calcinhas** — Merino wool ou bambu (menos odor, seca rápido)
+- **2x Sutiã esportivo** — Preto + Nude — trilhas, safári, dias ativos
+- **2x Sutiã regular** — Nude + Preto — jantares e dias comuns
+- **4x Meias** — 2 pares tornozelo (casual) + 2 pares curtos
+- **1x Meia de compressão** — Voo longo GRU→JNB
+- **2x Biquíni** — Um para usar, outro secando. Cores que combinam com a paleta: terracota, cream ou sage green
+- **1x Pijama leve** — Shorts + top fino (pode ser regata + shorts separados)
+- **Absorventes ou coletor menstrual** — Verificar calendário: 24 dias de viagem pode coincidir com período
+
+---
+
+### 🎒 MOCHILA — Eletrônicos & Item Pessoal
+
+*A mochila de Jobim (~20-25L) carrega os eletrônicos e vai embaixo do assento. A de Paula é menor (~15L) e serve como day bag durante toda a viagem.*
+
+#### 📱 Eletrônicos
+
+> **🚫 DRONE: DEIXAR EM CASA.**
+> É proibido em todo o Kruger National Park e na maioria das reservas naturais da Africa do Sul (multa grave + possível apreensão). Só poderia usar em ~30% dos destinos da viagem. A DJI Osmo Action resolve 100% do que você precisa. Deixa o drone em casa e não ocupa os ~600g de espaço valioso.
+
+| Item | Qtd | Observação |
+| :--- | :---: | :--- |
+| Smartphones | 2 | Cada um carrega o próprio. **Baixar mapas offline (Google Maps ou Maps.me) antes de embarcar — Kruger tem zero sinal.** |
+| DJI Osmo Action — corpo | 1 | Com case de transporte compacto |
+| Baterias extras DJI | 2 | Total 3 baterias = ~3-4h de filmagem contínua |
+| Filtros ND (kit ND8/ND16/ND32) | 1 kit | Filmagem no sol intenso da savana |
+| Mini tripé gorillapod | 1 | Leve (180g), fixa em qualquer superfície |
+| Suporte de peito (chest mount) | 1 | Mãos livres no safári dentro do carro |
+| MicroSD 256GB | 2 | Safári = muito vídeo. 2 cartões = nunca perder material |
+| iPad/Tablet | 1 | Roteiro offline, filmes no avião, mapas |
+| Notebook ultrafino | 1 | Trabalho + backup de fotos/vídeos (ex: MacBook Air M) |
+| Mouse bluetooth dobrável | 1 | Compacto |
+| Fones de ouvido TWS | 2 | Cada um no próprio bolso |
+| Smartwatch | 2 | No pulso de cada um |
+| Smart Ring | 1 | No dedo |
+| **Adaptador universal Tipo M** | 1 | **Africa do Sul usa 3 pinos redondos em triângulo (Tipo M/N). Compre antes no Brasil — não tem em todo lugar.** |
+| Power bank 20.000mAh | 1 | Crítico para Kruger — não há tomada no carro durante horas de safári |
+| Hub USB-C | 1 | SD card + periféricos no notebook |
+| Carregador GaN multiporta | 1 | 1 tomada → 4-6 portas USB/USB-C simultâneas |
+| Cabos USB-C curtos 30cm | 2 | Para carregar na mesinha do avião sem bagunça |
+| Cabo adaptador (se necessário) | 1 | Para dispositivo com entrada diferente |
+
+---
+
+### 💊 MEDICAMENTOS & SAÚDE
+
+*Montar 1 nécessaire médica compacta compartilhada.*
+
+#### 🚨 Prioridade Máxima — Comprar com antecedência
+| Medicamento | Dose/Uso | Qtd | Observação Crítica |
+| :--- | :--- | :--- | :--- |
+| **Malarone** (Atovaquone/Proguanil) | 1 comprimido/dia | ~20 cp por pessoa | **PRESCRIÇÃO MÉDICA OBRIGATÓRIA.** Março = estação chuvosa = risco ALTO de malária no Kruger. Iniciar 2 dias antes de entrar (13/03), continuar 7 dias após sair (~26/03). Consulte infectologista antes de viajar. |
+| **Repelente DEET 30-50%** | Reaplicar a cada 4h | 2 unidades (100ml pump) | Use do pôr do sol ao amanhecer no Kruger. Formato pump spray (não aerossol) = aceito no avião como líquido 100ml. |
+| **Protetor Solar FPS 60+** | Reaplicar a cada 2h | 2 frascos 100ml | UV na Africa do Sul é extremamente forte. Comprar frascos maiores no Clicks em JNB. |
+
+#### 💊 Medicamentos Gerais
+| Medicamento | Qtd | Para Quê |
+| :--- | :--- | :--- |
+| Dipirona 1g | 20 comp | Dor, febre |
+| Ibuprofeno 400mg | 10 comp | Inflamação, dor muscular pós-trilha |
+| Loratadina 10mg | 10 comp | Alergia, picadas de inseto |
+| **Dramamine (Dimenidrinato) 50mg** | 10 comp | **Enjoo** — as estradas da Mpumalanga (Serra) e Garden Route são muito sinuosas! |
+| Loperamida (Imodium) 2mg | 8 comp | Diarreia |
+| Omeprazol 20mg | 10 comp | Refluxo, proteção gástrica |
+| Ciprofloxacino 500mg ou Azitromicina 500mg | 1 curso (6 cp) | Antibiótico de emergência gastrointestinal — não usar sem sintomas claros |
+| Soro de reidratação oral | 4 sachets | Desidratação, diarreia severa |
+| Spray nasal descongestionante | 1 (20ml) | Pressurização avião + poeira das estradas de terra do Kruger |
+| Colírio hidratante (soro fisiológico) | 1 (10ml) | Olhos secos no avião e poeira |
+| **Melatonina 5mg** | 10 comp | Ajuste de fuso horário nos primeiros 2-3 dias (Africa do Sul = Brasil -5h) |
+
+**Para Paula (restrição sem glúten/sem lactose):**
+| Item | Qtd | Observação |
+| :--- | :--- | :--- |
+| Enzimas digestivas (Lactase + Protease) | 1 frasco (30 caps) | Para situações de contaminação cruzada em restaurantes locais |
+| Antiácido sem glúten | 10 comp | Confirmar "gluten-free" no rótulo (ex: Eno, confirmar composição) |
+
+#### 🩹 Kit Primeiros Socorros
+- **10x Curativos (band-aids)** sortidos (pequenos + maiores)
+- **4x Curativo para bolhas (Compeed)** — *imprescindível* para Robberg e Tsitsikamma
+- **2x Gaze estéril + esparadrapo**
+- **1x Pomada antibiótica** — Bepantol Derma ou Bacitracina (tubo 15g)
+- **1x Álcool em gel 70%** (100ml — também conta nos líquidos do avião)
+- **1x Termômetro digital** compacto
+
+---
+
+### 💪 SUPLEMENTOS
+
+*Estratégia: Levar quantidade para **10-12 dias**. Comprar o restante em **Dischem** (Joburg, Cape Town, Port Elizabeth) — maior rede de suplementos da Africa do Sul, com variedade igual ou maior que o Brasil e preços competitivos.*
+
+> **⚠️ Atenção Paula:** Whey protein comum contém lactose. Use **Whey Isolado (ISO)** ou **Proteína de Ervilha/Arroz**. Verificar também a creatina (maioria é naturalmente sem lactose/glúten, mas confirmar marca).
+
+> **⚠️ Regra IATA:** Pós acima de 350ml devem ir na **bagagem despachada** nos voos SAA (que já está incluída). Planeje isso na hora de fazer as malas.
+
+| Suplemento | Jobim | Paula | Formato Ideal |
+| :--- | :--- | :--- | :--- |
+| **Whey Protein** | ~300g em zip-lock (12 doses) | **~300g Whey Isolado ou Proteína Vegetal** (sem lactose) | Zip-lock hermético etiquetado ou mini-shaker. **Vai na bagagem despachada SAA se a quantidade for maior.** |
+| **Creatina Monohidratada** | 120g (5g/dia × 24 dias) | 120g | Pote plástico pequeno com etiqueta clara |
+| **Ômega 3 EPA/DHA** | 30 cápsulas | 30 cápsulas | Podem compartilhar 1 frasco de 60 caps |
+| **Vitamina D3 + K2** | 30 cápsulas | 30 cápsulas | Pote compacto |
+| **Multivitamínico** | 24 comprimidos | 24 comprimidos | Embalagem blister original |
+
+---
+
+### 🧴 NECESSAIRES DE TOILETRIES
+
+**Estratégia de ouro:** Levar versões travel-size (100ml) para os primeiros 4-5 dias. Ao chegar em JNB, comprar versões normais no **Clicks** (próximo a qualquer hotel de Sandton). Isso libera espaço enorme na mala e evita peso.
+
+*Cada pessoa monta 1 nécessaire transparente de 1L (regra de líquidos do avião) com itens de 100ml.*
+
+#### 🧔 Jobim — Nécessaire (1L de líquidos + itens sólidos separados)
+| Item | Tamanho | Observação |
+| :--- | :--- | :--- |
+| Shampoo | 100ml | Comprar versão 400ml no Clicks em JNB |
+| Condicionador | 100ml | Comprar versão maior no Clicks |
+| **Sabonete sólido** | 1 barra | Não conta como líquido! Ex: Dove Men+Care, Lush. Economiza espaço. |
+| Desodorante sólido ou roll-on | 50ml ou barra | Sólido não conta como líquido — melhor opção |
+| Creme de barbear | 100ml | Ou espuma sólida (Proraso sólido — excelente) |
+| Aparelho de barbear elétrico portátil | 1 | Ex: Philips OneBlade — corta molhado/seco, recarrega USB |
+| Lâminas reserva | 2 | Se preferir barbear manual |
+| Pasta de dente | 75ml | |
+| Escova de dente dobrável | 1 | Economiza espaço |
+| Fio dental | 1 | |
+| **Skincare — Limpador facial** | 50-100ml | Gel ou espuma. Da sua rotina habitual. |
+| **Skincare — Sérum/Tratamento** | 30ml | O produto chave da sua rotina — não abre mão |
+| **Skincare — Hidratante facial** | 50ml | |
+| **Protetor solar FPS 60+ facial** | 100ml | **Use todo dia, sem exceção.** Comprar frasco 200ml+ no Clicks. |
+| **Lip balm FPS 30+** | 1 unidade | Lábio resseca muito no sol e vento africano |
+| Lenços umedecidos | 1 embalagem pequena | Para poeira das estradas de terra no Kruger |
+
+#### 👩 Paula — Nécessaire (1L de líquidos + itens sólidos separados)
+| Item | Tamanho | Observação |
+| :--- | :--- | :--- |
+| Shampoo | 100ml | Comprar versão maior no Clicks |
+| Condicionador | 100ml | Comprar versão maior no Clicks |
+| Sabonete facial delicado | 100ml ou sólido | |
+| Desodorante | 50ml roll-on ou sólido | |
+| Pasta de dente | 75ml | |
+| Escova de dente | 1 | |
+| Fio dental | 1 | |
+| **Skincare 1 — Lenços demaquilantes** | 1 embalagem | Melhor que água micelar para viagem — não conta como líquido, mais prático |
+| **Skincare 2 — Limpador facial** | 100ml | Gel ou espuma suave |
+| **Skincare 3 — Tônico** | 100ml spray | Decante num spray de viagem vazio |
+| **Skincare 4 — Sérum** | 30ml | Vitamina C (manhã) ou Niacinamida — 30ml dura os 24 dias |
+| **Skincare 5 — Contorno dos olhos** | 15ml | Peça pequena, não pesa |
+| **Skincare 6 — Hidratante facial** | 50ml | |
+| **Skincare 7 — Protetor solar FPS 50+ facial** | 50ml | Use todo dia. Comprar versão 200ml no Clicks. |
+| Creme corporal | 100ml | Pele resseca rápido no calor seco do safári |
+| **Lip balm FPS 30+** | 1 unidade | |
+| Lenços umedecidos | 1 embalagem | |
+
+#### 💄 Maquiagem Paula (nécessaire separada, pequena)
+| Item | Qtd | Observação |
+| :--- | :--- | :--- |
+| Máscara de cílios à prova d'água | 1 | Praia + calor + safári |
+| Lápis de olho | 1 | Cor neutra (marrom) — mais versátil que preto |
+| Batom/gloss | 2 | Nude rosado + Terracota (combina com toda a paleta da viagem) |
+| Blush compacto | 1 | Tons pêssego ou terracota |
+| BB cream leve ou base fluida | 1 | Foco em leveza e proteção — muita fotinho ao ar livre |
+| Pó translúcido compacto | 1 | Anti-brilho no calor |
+| Pincel retrátil multiuso | 1 | 1 pincel resolve tudo |
+| Esponja beauty blender pequena | 1 | |
+
+#### 💇 Cabelo Paula
+- **3-4 Scrunchies de tecido macio** (silk ou cetim — não quebra o cabelo)
+- **5 Elásticos** variados
+- **1 Escova dobrável** compacta
+- **1 Prendedor tipo garra**
+- **1 Leave-in ou óleo capilar** (50ml) — Garden Route e Cape Town têm umidade que cria volume/frizz
+
+---
+
+### 🦁 ITENS ESPECIAIS DE SAFARI
+| Item | Qtd | Observação |
+| :--- | :--- | :--- |
+| **Binóculo compacto 8x42** | **1 par** | **Item mais importante do safári depois do carro.** Sem binóculo você vê borrões. Invista: Nikon Aculon A211, Vanguard Endeavor ou Celestron TrailSeeker (~R$300-600). Um par para os dois dividir. |
+| Buff / Gola de pescoço | 2 (1 cada) | Poeira intensa nas estradas de terra do Kruger — tampa nariz, boca e orelha |
+| Lanterna de cabeça (headlamp) | 1 | Para noites escuras no SleepOver Orpen e deslocamentos no Mdluli |
+| Sacolas de pano reutilizáveis | 2 | Compras no mercado, artesanato Eswatini (Ngwenya Glass, Swazi Candles) |
+| **Garrafa de água dobrável** | 2 (1 cada) | Hidratação nas trilhas — não há lojas no meio do Kruger. Tipo Hydrapak Stow ou Platypus. |
+| Cadeado TSA pequeno | 2 | Para zíperes das malas em qualquer hospedagem |
+| **Pochete de viagem anti-furto** | 1-2 | Para usar por baixo da roupa em JNB/Sandton e Cape Town (Water front). Não ande com cartão na mochila. |
+
+---
+
+### 🗂️ ORGANIZAÇÃO DA MALA
+| Item | Qtd | Observação |
+| :--- | :--- | :--- |
+| Packing cubes compressão | 3-4 por mala | Ex: Eagle Creek Specter, SHACKE Pak. Separa roupa limpa, roupa suja, acessórios. Reduz volume em até 30%. |
+| Saco impermeável para roupa suja | 1 por pessoa | Dry bag pequena ou saco ziploc grande — indispensável na praia |
+| Sacos ziploc grandes | 4 | Roupas molhadas, biquíni, suplementos, papeis |
+| Sacos de tecido para sapatos | 2 | Para não sujar a roupa com a sola |
+| Nécessaire transparente 1L | 1 por pessoa | Regra IATA de líquidos no avião |
+| Nécessaire médica compacta | 1 compartilhada | Para os remédios — identifique tudo em português e inglês |
+
+---
+
+### 📋 DOCUMENTOS ESSENCIAIS (Checklist)
+- [ ] **Passaportes** (válidos até **mínimo setembro de 2026** — obrigatório 6 meses além da data de retorno)
+- [ ] **CNH** de ambos — Carteira Nacional de Habilitação
+- [ ] **PID — Permissão Internacional para Dirigir** — **OBRIGATÓRIO para ambos.** CNH brasileira é em português e não é suficiente sozinha na Africa do Sul. Emitir online pelo **Detran** do seu estado. Custo ~R$80, prazo 5-7 dias úteis. Válida por 3 anos.
+- [ ] **Seguro Viagem** — imprimir comprovante + salvar no celular
+- [ ] Cartões físicos: **Wise** (final 4307), **Nomad**, **Visa Infinite**, **Mastercard Black** (final 4901)
+- [ ] **ZAR 2.000 em dinheiro** — sacar no ATM do aeroporto JNB ao chegar (pedágios e gorjetas)
+- [ ] Vouchers impressos: GreenMotion (Voucher KF85JS8), Sixt, Mdluli (Reserva 72071022668342), SleepOver Orpen
+- [ ] Passagens SAA impressas: JNB→PLZ (40-890691509) e CPT→JNB (40-891067240)
+- [ ] Passagens LATAM impressas: DNEQXQ (Pedro) + passagem da Paula
+- [ ] **Carta de autorização cross-border Eswatini** — Solicitar à GreenMotion com **72h de antecedência** (custo ~ZAR 1.800)
+- [ ] Comprovantes de hotel: Cinzaco (72071373414521), Angels View (970229974), Mdluli
+- [ ] **Vacina de febre amarela** — Eswatini pode solicitar comprovante na fronteira. Confirmar na embaixada 30 dias antes da viagem.
+
+---
+
+### ⚠️ O QUE NÃO LEVAR
+- ❌ **Drone** — Proibido no Kruger e na maioria das reservas. Multa e apreensão. Deixe em casa sem arrependimento.
+- ❌ **Jeans grosso/pesado** — Pesa muito, seca devagar. O chino slim navy substitui com vantagem em tudo.
+- ❌ **Blazer ou terno** — Nenhum restaurante do roteiro exige. Smart casual (polo/linho) resolve qualquer jantar.
+- ❌ **Salto alto** — 24 dias com muito deslocamento. Sandália plana elegante é suficiente para todos os eventos.
+- ❌ **Mais de 3 pares de sapatos** — Cada tênis pesa 400-600g. Seja brutal na escolha.
+- ❌ **Secador de cabelo** — Todos os hotéis/lodges do roteiro fornecem.
+- ❌ **Ferro ou vaporizador** — Hotéis fornecem, e os tecidos escolhidos (linho lavado, viscose, crepe) não amassam.
+- ❌ **Shampoo/condicionador tamanho normal** — Comprar no Clicks em JNB no 1º ou 2º dia.
+- ❌ **Câmera DSLR com lentes extras** — Pesada, volumosa e difícil de manusear no safári. A DJI Action + celular entregam resultados excelentes com zero estresse.
+- ❌ **Muitos livros físicos** — Use o app Kindle no iPad.
+
+---
+
+### 🛍️ COMPRAR LOCALMENTE (Economize espaço e peso na mala)
+
+> **Clicks** e **Dischem** são redes de farmácia/beleza em toda a Africa do Sul — equivalente ao Droga Raia, mas com produtos internacionais e linha premium. **Woolworths SA** (diferente do brasileiro) tem produtos gourmet, orgânicos e skincare de qualidade. **Spar** e **Pick n Pay** para snacks e abastecimento no roteiro.
+
+**Comprar no Clicks (JNB, Sandton — dia 12 ou 13/03):**
+- Shampoo + Condicionador (tamanho normal 400ml+)
+- Protetor solar FPS 50-60+ (frasco spray 200ml+)
+- Repelente DEET (caso não encontre no Brasil)
+- Creme corporal
+- Whey Protein isolado para Paula + creatina (Dischem tem variedade enorme de suplementos)
+- Qualquer medicamento de reposição
+
+**Comprar no Spar/Pick n Pay (Hazyview antes do Kruger, 13/03):**
+- Água mineral (2L por pessoa)
+- **Rusks sul-africanos** (biscoito durinho para comer com café nas manhãs de safári — ícone cultural, obrigatório!)
+- Snacks para o safári: castanhas, biltong (carne seca local)
+- Bebidas para o cooler no carro

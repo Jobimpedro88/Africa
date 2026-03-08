@@ -1,25 +1,20 @@
 ---
-title: Summerfield Botanical Garden
-type: Accommodation
+title: "Summerfield Botanical Garden"
+type: "Accommodation"
 locations: []
 coordinates:
   lat: -26.4674
   lng: 31.189
-tags:
-  - Eswatini
-  - Luxo
+tags: ["Eswatini","Luxo"]
 checklist: true
 rating: 5
-time: Check-in 14h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8'
-  official: 'https://summerfieldresort.com/'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=VxFo95bU2nQ'
+  googleMaps: ''
+  official: 'https://summerfield.co.sz/'
 details:
   tips: >-
-    Explore os jardins botânicos pela manhã. Aves raras, pavões e cenários
-    impecáveis.
+    Explore os jardins botânicos privativos do hotel.
 ---
 
-Resort fenomenal escondido no vale.
+O hotel mais luxuoso do Eswatini.

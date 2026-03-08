@@ -1,23 +1,20 @@
 ---
-title: The Marine Hermanus
-type: Accommodation
+title: "The Marine Hermanus"
+type: "Accommodation"
 locations: []
 coordinates:
   lat: -34.4214
   lng: 19.2435
-tags:
-  - Luxo
-  - Clássico
+tags: ["Hermanus","Mar"]
 checklist: true
 rating: 5
-time: Check-in 14h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA'
-  official: 'https://www.themarinehotel.co.za/'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=bV7X_O5XvjI'
+  googleMaps: ''
+  official: 'https://themarinehotel.co.za/'
 details:
-  tips: As baleias chegam até as pedras do hotel. Fique de olho da piscina!
+  tips: >-
+    Cuidado para não ser levado pelo vento nas falésias em frente!
 ---
 
-De frente para o mar, o clássico de Hermanus.
+O hotel mais icônico de Hermanus.

@@ -1,25 +1,20 @@
 ---
-title: SleepOver Orpen Gate
-type: Accommodation
+title: "SleepOver Orpen Gate"
+type: "Accommodation"
 locations: []
 coordinates:
   lat: -24.4752
   lng: 31.3962
-tags:
-  - Econômico
-  - Kruger
+tags: ["Kruger","Base"]
 checklist: true
 rating: 5
-time: Check-in 14h00
+
 links:
-  googleMaps: 'https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA'
-  official: 'https://sleepover-motels.co.za/orpen-gate/'
-visuals:
-  youtubeUrl: 'https://www.youtube.com/watch?v=3-M9Xw5bYdE'
+  googleMaps: ''
+  official: ''
 details:
   tips: >-
-    Ideal para estar na porta do parque às 05h30 e pegar os felinos da região de
-    Satara caçando.
+    Use a rota S100 perto de Satara para as melhores chances de ver felinos.
 ---
 
-Super perto dos portões de Orpen e região de Satara (Cat Camp).
+Hospedagem prática próxima ao portão de Orpen.
