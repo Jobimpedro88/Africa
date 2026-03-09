@@ -185,39 +185,48 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 
 **O Veredito:** Dia relaxado e focado em contemplação. Como solicitado, a saída será mais tarde para permitir café da manhã e academia com calma. A chegada ao cânion foi programada para as 14h, garantindo a melhor iluminação para fotos.
 
-**Rota:** Graskop -> Pinnacle -> God's Window -> Almoço -> Bourke's Luck -> Three Rondavels.
+**Rota:** Graskop -> Lisbon Falls -> Berlin Falls -> Bourke's Luck -> Three Rondavels.
 
 #### **10:00 - Saída do Angels View** ☕💪
 *   Tempo para curtir a estrutura do hotel, treinar e tomar café sem pressa.
-*   **10:15 - The Pinnacle Rock** 🪨
-    *   **O que é:** Torre de pedra gigante (30m) brotando da floresta.
-    *   **Tempo:** 20 minutos (Foto rápida).
-    *   **Google Maps:** [Pinnacle Rock](https://www.google.com/maps/search/?api=1&query=The+Pinnacle+Rock+Graskop)
 
-#### **11:00 - God's Window & Wonder View** 👀
-*   **Entrada:** **R70** (Leve cash).
-*   **A Experiência:** Um dos pontos mais altos da Escarpa Drakensberg. Trilha da "Rain Forest" no topo é essencial (15 min).
+#### **10:15 - Lisbon Falls** 💦⛰️
+*   **O que é:** A cachoeira mais alta da região (94m). Vista espetacular e dramática.
+*   **Tempo:** 45 minutos. **Entrada:** R15 (Leve cash).
+*   **Google Maps:** [Lisbon Falls](https://www.google.com/maps/search/?api=1&query=Lisbon+Falls+South+Africa)
+
+#### **11:00 - Berlin Falls** 🕯️💧
+*   **O que é:** Uma queda de 45m em formato de "vela" que cai em uma piscina azul turquesa.
+*   **Tempo:** 30 minutos (Apenas 2km da Lisbon Falls). **Entrada:** R15.
+*   **Google Maps:** [Berlin Falls](https://www.google.com/maps/search/?api=1&query=Berlin+Falls+South+Africa)
+
+#### **11:45 - God's Window & Wonder View** 👀
+*   **Entrada:** **R70**.
+*   **A Experiência:** Trilha da "Rain Forest" no topo é essencial.
 *   **Google Maps:** [God's Window](https://www.google.com/maps/search/?api=1&query=God's+Window+Graskop)
 
-#### **12:15 - Almoço: The Chubby Pig** 🐷🍴
-*   **Localização:** Na R532, beira do rio Treur, próximo aos Portholes.
-*   **Por que visitar:** Deck maravilhoso sobre a água, ambiente rústico e "comfort food" de alta qualidade.
-*   **O que pedir:** **T-Bone Steak** ou o **Chubby Burger**. Os milkshakes artesanais são famosos na região.
-*   **Preços:** R150 - R280 por pessoa.
+#### **12:45 - Almoço: The Chubby Pig** 🐷🍴
+*   **Dica:** Deck sobre o rio Treur. Peça o **T-Bone Steak** ou o **Chubby Burger**.
 *   **Google Maps:** [The Chubby Pig](https://www.google.com/maps/search/?api=1&query=The+Chubby+Pig+Bourke's+Luck)
-
-#### **13:30 - Bourke's Luck Potholes** 💧
-*   **Entrada:** **R150**.
-*   **A Experiência:** Encontro dos rios Treur (tristeza) e Blyde (alegria). Erosão esculpiu formações cilíndricas surreais.
-*   **Google Maps:** [Bourke's Luck](https://www.google.com/maps/search/?api=1&query=Bourke's+Luck+Potholes)
 
 #### **14:00 - Three Rondavels (Blyde River Canyon)** ⛰️📸
 *   **Entrada:** **R90**.
-*   **O Ponto Alto:** Às 14:00 o sol está na posição ideal, eliminando névoas e iluminando diretamente as formações rochosas (os "rondavels").
+*   **O Ponto Alto:** Às 14:00 o sol ilumina diretamente os "rondavels", perfeita para fotos.
 *   **Google Maps:** [Three Rondavels](https://www.google.com/maps/search/?api=1&query=Three+Rondavels+Blyde+River+Canyon)
 
-#### **15:30 - Tarde Livre e Relax**
-*   Retorno ao hotel para curtir a piscina com o pôr do sol ou explorar lojinhas de artesanato em Graskop. Dia gabaritado! ✅
+#### **15:00 - Bourke's Luck Potholes** 💧 (Ajustado)
+*   **Entrada:** **R150**.
+*   **A Experiência:** Explore as pontes e formações cilíndricas.
+*   **Google Maps:** [Bourke's Luck](https://www.google.com/maps/search/?api=1&query=Bourke's+Luck+Potholes)
+
+#### **16:30 - Tarde Livre e Relax**
+*   Retorno ao hotel para curtir a piscina com o pôr do sol.
+
+#### **19:30 - Jantar de Sábado (Graskop)** 🍷
+1.  **🥇 The Glass House:** [Reserva: +27 13 767 1108]. O melhor da cidade. Peça o **Fillet Steak** ou o **Bobotie**. Ambiente aconchegante.
+2.  **🥈 Mumsy's:** Dentro do hotel Angels View. Alta gastronomia local (Oxtail/Lamb Shank). Ideal para não ter que dirigir.
+3.  **🥉 Canimambo:** Sabores moçambicanos/portugueses. Peça o **Frango Peri-Peri**.
+
 
 
 ---

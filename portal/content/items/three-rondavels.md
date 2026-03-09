@@ -4,7 +4,7 @@ type: "Activity"
 locations: []
 coordinates:
   lat: -24.5684
-  lng: 30.8037
+  lng: -30.8037
 tags: ["Mirante","Cânion"]
 checklist: true
 rating: 5

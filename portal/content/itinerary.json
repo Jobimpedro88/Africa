@@ -39,15 +39,19 @@
         "day": 4,
         "date": "14/03/2026",
         "location": "Panorama Route",
-        "summary": "Mirantes Clássicos (Luz Ideal)",
+        "summary": "Refinamento & Luz Ideal",
         "selectedItems": [
+            "lisbon-falls",
+            "berlin-falls",
             "gods-window",
             "the-chubby-pig",
+            "three-rondavels",
             "bourkes-luck",
-            "three-rondavels"
+            "the-glass-house"
         ],
         "alternativeItems": [
-            "kadisi-restaurant"
+            "kadisi-restaurant",
+            "mrs-simpsons"
         ]
     },
     {

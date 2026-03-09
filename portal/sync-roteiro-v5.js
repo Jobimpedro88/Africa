@@ -125,11 +125,31 @@ const items = [
         slug: 'three-rondavels',
         title: 'Three Rondavels',
         type: 'Activity',
-        coordinates: { lat: -24.5684, lng: 30.8037 },
+        coordinates: { lat: -24.5684, lng: -30.8037 },
         tags: ['Mirante', 'Cânion'],
         links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Three+Rondavels+Blyde+River+Canyon' },
         details: { tips: 'Chegue às 14:00 para a melhor luz fotográfica. ZAR 90.' },
         content: 'O terceiro maior cânion do mundo, com formações que lembram cabanas africanas.'
+    },
+    {
+        slug: 'lisbon-falls',
+        title: 'Lisbon Falls',
+        type: 'Activity',
+        coordinates: { lat: -24.8594, lng: 30.8403 },
+        tags: ['Natureza', 'Cachoeira'],
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Lisbon+Falls+South+Africa' },
+        details: { tips: 'A mais alta da região (94m). Entrada R15.' },
+        content: 'Queda d\'água dramática e uma das mais bonitas da rota.'
+    },
+    {
+        slug: 'berlin-falls',
+        title: 'Berlin Falls',
+        type: 'Activity',
+        coordinates: { lat: -24.8464, lng: 30.8436 },
+        tags: ['Natureza', 'Cachoeira'],
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Berlin+Falls+South+Africa' },
+        details: { tips: 'Queda em formato de vela. Entrada R15.' },
+        content: 'Cachoeira que cai em uma piscina natural azul turquesa.'
     },
     {
         slug: 'the-chubby-pig',
@@ -469,7 +489,7 @@ const itinerary = [
     { day: 1, date: "11/03/2026", location: "Brasil -> África", summary: "Em Trânsito", selectedItems: ["gru-latam"], alternativeItems: [] },
     { day: 2, date: "12/03/2026", location: "Dullstroom", summary: "Desembarque & Estrada", selectedItems: ["jnb-greenmotion", "alzu-petroport", "cinzaco-accommodation", "mrs-simpsons"], alternativeItems: [] },
     { day: 3, date: "13/03/2026", location: "Graskop", summary: "A Rota das Cachoeiras", selectedItems: ["mac-mac-falls", "the-glass-house", "graskop-gorge", "angels-view"], alternativeItems: [] },
-    { day: 4, date: "14/03/2026", location: "Panorama Route", summary: "Mirantes Clássicos (Luz Ideal)", selectedItems: ["gods-window", "the-chubby-pig", "bourkes-luck", "three-rondavels"], alternativeItems: ["kadisi-restaurant"] },
+    { day: 4, date: "14/03/2026", location: "Panorama Route", summary: "Refinamento & Luz Ideal", selectedItems: ["lisbon-falls", "berlin-falls", "gods-window", "the-chubby-pig", "three-rondavels", "bourkes-luck", "the-glass-house"], alternativeItems: ["kadisi-restaurant", "mrs-simpsons"] },
     { day: 5, date: "15/03/2026", location: "Kruger Sul", summary: "Entrada e Phabeni", selectedItems: ["mdluli-safari"], alternativeItems: [] },
     { day: 6, date: "16/03/2026", location: "Kruger Sul", summary: "O Dia do Big 5", selectedItems: ["mdluli-safari"], alternativeItems: [] },
     { day: 7, date: "17/03/2026", location: "Kruger Central", summary: "Mudança para Satara", selectedItems: ["tshokwane-picnic", "sleepover-orpen"], alternativeItems: [] },
