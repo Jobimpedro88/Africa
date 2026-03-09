@@ -39,14 +39,16 @@
         "day": 4,
         "date": "14/03/2026",
         "location": "Panorama Route",
-        "summary": "Mirantes Clássicos",
+        "summary": "Mirantes Clássicos (Luz Ideal)",
         "selectedItems": [
             "gods-window",
+            "the-chubby-pig",
             "bourkes-luck",
-            "three-rondavels",
-            "the-chubby-pig"
+            "three-rondavels"
         ],
-        "alternativeItems": []
+        "alternativeItems": [
+            "kadisi-restaurant"
+        ]
     },
     {
         "day": 5,

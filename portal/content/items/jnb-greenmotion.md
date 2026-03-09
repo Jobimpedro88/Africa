@@ -10,7 +10,7 @@ checklist: true
 rating: 5
 
 links:
-  googleMaps: ''
+  googleMaps: 'https://www.google.com/maps/search/?api=1&query=Green+Motion+OR+Tambo+Airport'
   official: ''
 details:
   tips: >-

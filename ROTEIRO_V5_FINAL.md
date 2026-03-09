@@ -21,7 +21,7 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 ### 🧳 Franquia de Bagagem por Companhia
 
 #### ✈️ LATAM (Voos Internacionais: BSB/GRU ↔ JNB)
-> [Política Oficial Latam](https://www.latamairlines.com/br/pt/paginas-de-ajuda/franquia-de-bagagem)
+> [Política Oficial Latam](https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/bagagem-despachada)
 
 | Tipo | Quantidade | Peso Máx. | Dimensões Máx. |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 ---
 
 #### ✈️ SAA — South African Airways (Voos Domésticos: JNB-PLZ e CPT-JNB)
-> [Política Oficial SAA](https://www.flysaa.com/za/en/plan-your-travel/baggage/check-in-baggage)
+> [Política Oficial SAA](https://www.flysaa.com/manage-fly/baggage/checked-baggage)
 
 | Tipo | Quantidade | Peso Máx. | Dimensões Máx. |
 | :--- | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 *   **14:00: Retirada Carro 1 - [GreenMotion](https://greenmotion.com/) (Meet & Greet)**
     *   **📍 Onde:** **Arrivals Hall**. Procure o agente com a plaquinha "GreenMotion / Pedro Jobim".
     *   **Horário:** 06h00 - 22h00
-    *   **Google Maps:** [Localização GreenMotion](https://maps.app.goo.gl/YtqFkP8Rz7nK4V9Z7)
+    *   **Google Maps:** [Localização GreenMotion](https://www.google.com/maps/search/?api=1&query=Green+Motion+OR+Tambo+Airport)
     *   **Vídeo:** [Retirando Carro JNB](https://www.youtube.com/watch?v=7uC8W3Xz4iE)
     *   **📞 Contato GreenMotion:** +27 87 095 8918 / +27 71 680 0727. Se não achar, ligue!
     *   **💻 Reserva:** [Site Oficial GreenMotion](https://greenmotion.com/)
@@ -102,7 +102,7 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
 *   **15:00:** Estrada N4 rumo a Dullstroom (2h30).
 *   **🛑 Parada de Almoço (Na Estrada):**
     *   **Alzu Petroport (N4):** É um posto de gasolina famoso que tem visores para ver rinocerontes e búfalos enquanto você come! Tem Nando's, Spur e banheiros limpos. A melhor parada da rota.
-    *   **Horário:** 06h00 - 22h00 | **Google Maps:** [Alzu Petroport](https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA) | **Vídeo:** [Alzu Tour](https://www.youtube.com/watch?v=vV7YJm74xKs)
+    *   **Horário:** 06h00 - 22h00 | **Google Maps:** [Alzu Petroport](https://www.google.com/maps/search/?api=1&query=Alzu+Petroport+N4+South+Africa) | **Vídeo:** [Alzu Tour](https://www.youtube.com/watch?v=vV7YJm74xKs)
     *   **Dica:** Peça um lanche no Nando's, sente na varanda e aproveite a vista dos Rinocerontes!
 *   **17:30:** Chegada em Dullstroom.
 *   **Hospedagem (Confirmada):**
@@ -176,48 +176,49 @@ w# 🇿🇦 ROTEIRO V5 FINAL: "THE SMART ROUTE" (24 Dias)
     *   **Forma de pagamento:** À vista (em dólares via Wise).
     *   **Contatos e Mídia:** 
         *   Endereço: Bushbuck ridge road, R533, Graskop Airstrip, Graskop. (Check-in após as 14h).
-        *   Contato: res7@extraordinary.co.za
+        *   Contato: res7@extraordinary.co.za | **Lodge Number:** (013) 590 1150
+        *   **GPS Co-ordinates:** 24°57’42.64” S 30°51’21.56” E
         *   Mídia/Maps: [Localização no Google Maps](https://www.google.com/maps/search/Angels+View+Hotel+Graskop) | [Vídeos YouTube](https://www.youtube.com/results?search_query=Angels+View+Hotel+Graskop). | [Site Oficial](https://angelsview.co.za/)
 *   **Jantar:** No restaurante **Mumsy's** (dentro do próprio hotel, excelente gastronomia local) ou no **The Chubby Pig** (na beira do rio em Graskop).
 
-### 14/03 (Sábado): Panorama Route Completa (Detalhado)
+### 14/03 (Sábado): Panorama Route Completa
 
-**O Veredito:** Fique tranquilo, **NÃO é corrido.** A rota inteira tem apenas 100km (ida e volta) e você vai parando nos mirantes. Saindo às 09:00, você termina tudo às 15:00 com calma.
+**O Veredito:** Dia relaxado e focado em contemplação. Como solicitado, a saída será mais tarde para permitir café da manhã e academia com calma. A chegada ao cânion foi programada para as 14h, garantindo a melhor iluminação para fotos.
 
-**Rota:** Graskop -> Pinnacle -> God's Window -> Bourke's Luck -> Three Rondavels.
+**Rota:** Graskop -> Pinnacle -> God's Window -> Almoço -> Bourke's Luck -> Three Rondavels.
 
-#### **09:00 - The Pinnacle Rock** 🪨
-*   **Distância:** 10 min de Graskop (R532).
-*   **O que é:** Uma torre de pedra gigante que brota da floresta.
-*   **Tempo:** 20 minutos (Foto rápida).
-*   **Google Maps:** [Localização Pinnacle Rock](https://www.google.com/maps/search/?api=1&query=The+Pinnacle+Rock+Graskop)
+#### **10:00 - Saída do Angels View** ☕💪
+*   Tempo para curtir a estrutura do hotel, treinar e tomar café sem pressa.
+*   **10:15 - The Pinnacle Rock** 🪨
+    *   **O que é:** Torre de pedra gigante (30m) brotando da floresta.
+    *   **Tempo:** 20 minutos (Foto rápida).
+    *   **Google Maps:** [Pinnacle Rock](https://www.google.com/maps/search/?api=1&query=The+Pinnacle+Rock+Graskop)
 
-#### **09:40 - God's Window & Wonder View** 👀
-*   **Distância:** +5 min de estrada.
-*   **Entrada:** **R70** (Adulto - Leve cash sempre).
-*   **A Experiência:** Em dias claros, vê-se até Moçambique.
-*   **Horário:** 07h00 - 17h00 | **Google Maps:** [God's Window](https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA) | **Vídeo:** [God's Window Vista](https://www.youtube.com/watch?v=zVvX6Kz1D2o)
-*   **Dica:** Suba a trilha da "Rain Forest" no topo para a melhor vista (15 min de subida). Se estiver nublado (neblina), **pule** essa parada (muito comum a neblina fechar a vista totalmente) e vá direto para os Potholes, que ficam mais baixos e costumam ter sol (Bourke's Luck Porthole costuma ser o favorito!).
+#### **11:00 - God's Window & Wonder View** 👀
+*   **Entrada:** **R70** (Leve cash).
+*   **A Experiência:** Um dos pontos mais altos da Escarpa Drakensberg. Trilha da "Rain Forest" no topo é essencial (15 min).
+*   **Google Maps:** [God's Window](https://www.google.com/maps/search/?api=1&query=God's+Window+Graskop)
 
-#### **11:00 - Bourke's Luck Potholes** 💧
-*   **Distância:** +30 min de estrada.
-*   **Entrada:** **R150** (Internacional).
-*   **A Experiência:** É o encontro dos rios Treur e Blyde. A água esculpiu "panelas" gigantes na pedra vermelha. Lugar incrível para caminhar nas pontes.
-*   **Horário:** 07h00 - 17h00 | **Google Maps:** [Bourke's Luck](https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA) | **Vídeo:** [Potholes Tour](https://www.youtube.com/watch?v=6xO9H_XvGXY)
-*   **Dica:** Vá até o ponto onde os rios Treur (tristeza) e Blyde (alegria) se encontram.
+#### **12:15 - Almoço: The Chubby Pig** 🐷🍴
+*   **Localização:** Na R532, beira do rio Treur, próximo aos Portholes.
+*   **Por que visitar:** Deck maravilhoso sobre a água, ambiente rústico e "comfort food" de alta qualidade.
+*   **O que pedir:** **T-Bone Steak** ou o **Chubby Burger**. Os milkshakes artesanais são famosos na região.
+*   **Preços:** R150 - R280 por pessoa.
+*   **Google Maps:** [The Chubby Pig](https://www.google.com/maps/search/?api=1&query=The+Chubby+Pig+Bourke's+Luck)
 
-#### **12:30 - Three Rondavels (Blyde River Canyon)** ⛰️
-*   **Distância:** +15 min de estrada.
-*   **Entrada:** **R90** (Internacional).
-*   **A Experiência:** O cartão postal da África do Sul. A vista mais icônica do cânion verde.
-*   **Horário:** 07h00 - 17h00 | **Google Maps:** [Three Rondavels](https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8) | **Vídeo:** [Canyon Drone](https://www.youtube.com/watch?v=4d0U5G3Q3mU)
-*   **Dica:** Melhor horário para fotos é depois das 14h, com o sol iluminando as formações.
+#### **13:30 - Bourke's Luck Potholes** 💧
+*   **Entrada:** **R150**.
+*   **A Experiência:** Encontro dos rios Treur (tristeza) e Blyde (alegria). Erosão esculpiu formações cilíndricas surreais.
+*   **Google Maps:** [Bourke's Luck](https://www.google.com/maps/search/?api=1&query=Bourke's+Luck+Potholes)
 
-#### **13:30 - Almoço com Vista**
-*   **Opção:** Voltar para almoçar no **The Chubby Pig** (na beira do rio) ou no famoso **Potluck Boskombuis** (rústico, sem eletricidade, pé na areia e carne na brasa - *confira se reabriu, pois fecha as vezes*).
+#### **14:00 - Three Rondavels (Blyde River Canyon)** ⛰️📸
+*   **Entrada:** **R90**.
+*   **O Ponto Alto:** Às 14:00 o sol está na posição ideal, eliminando névoas e iluminando diretamente as formações rochosas (os "rondavels").
+*   **Google Maps:** [Three Rondavels](https://www.google.com/maps/search/?api=1&query=Three+Rondavels+Blyde+River+Canyon)
 
-#### **15:00 - Tarde Livre**
-*   Volta para o **Angels View** para curtir a piscina com o pôr do sol. Dia gabaritado! ✅
+#### **15:30 - Tarde Livre e Relax**
+*   Retorno ao hotel para curtir a piscina com o pôr do sol ou explorar lojinhas de artesanato em Graskop. Dia gabaritado! ✅
+
 
 ---
 
@@ -233,7 +234,24 @@ A estratégia aqui é um mix inteligente: 2 noites de Glamour/Luxo (Mdluli) segu
 
 ### **15/03 (Domingo): Mudança de Base e Chegada ao Luxo**
 *   **10:00:** Saída de Graskop (Panorama Chalets). Tempo de estrada: ~1h15 (75km) até Hazyview.
-*   **11:30 - 13:00:** Almoço em Hazyview ou parada no P&P/Spar para comprar lanches/bebidas antes de entrar no parque.
+*   **11:30 - 13:30: Parada Estratégica em Hazyview (Abastecimento & Compras)**
+    *   **⛽ Posto de Gasolina:** **Sasol Hazyview** ou **Shell Blue Hazy**. 
+        *   *Dica:* Os preços na África do Sul são **tabelados pelo governo** (Regionais), então não há variação de preço entre postos da mesma cidade. Abasteça aqui, pois o combustível dentro do parque é mais caro.
+    *   **🛒 Supermercado (Onde parar):**
+        1.  **SUPERSPAR Indlovu (Lowveld Mall):** Excelente para itens frescos, padaria e comidas prontas (*ready-to-eat*). É o favorito dos turistas.
+        2.  **Pick n Pay (Hazyview Junction):** Melhor para itens de marca e variedade de snacks.
+    *   **🥪 Almoço (Modo Prático):** Como vocês vão para o luxo (Mdluli), não percam tempo em restaurante sentado. Comprem um sanduíche pronto ou itens para montar um "picnic de carro" e comam no trajeto ou já dentro do parque.
+    *   **📝 Lista de Compras para o Safári (Estoque para 4-5 dias):**
+        *   **Água:** 2 ou 3 galões de 5L (para reabastecer as garrafinhas e economizar plástico/dinheiro).
+        *   **Snacks Salgados:** Biltong (carne seca sul-africana - peça a *lean* se não gostar de gordura), Castanhas (*Nuts*), Batata chips.
+        *   **Snacks Doces:** Frutas (Maçãs/Bananas), Chocolates e barrinhas.
+        *   **Itens de Almoço/Lanche:** Pão, Frios (presunto/salame), Queijo, Abacate (*Avo*), Tomatinho cereja.
+        *   **Bebidas:** Ice Tea, Suco 100%. 
+        *   **🍷 Vinhos (Custo-Benefício no Mercado):**
+            *   *Tintos:* **Beyerskloof Pinotage** (O clássico sul-africano), **Barista Pinotage** (Notas de café/chocolate), **Kanonkop Kadette** (Excelente qualidade/preço), **Spier Signature Merlot/Pinotage**.
+            *   *Brancos (Geladinhos no Safári):* **Spier Chenin Blanc**, **Durbanville Hills Sauvignon Blanc**, **Ken Forrester Petit Chenin**.
+            *   *Bolhas:* **Simonsig Kaapse Vonkel** (Um dos melhores MCC/Espumantes custo-benefício).
+    *   **📍 Localização Shopping:** [Hazyview Junction (P&P)](https://www.google.com/maps/search/?api=1&query=Hazyview+Junction+Pick+n+Pay) | [Lowveld Mall (Spar)](https://www.google.com/maps/search/?api=1&query=Lowveld+Mall+Hazyview+Spar)
 *   **13:00:** Entrada pelo **Phabeni Gate**. 
     *   *Nota:* Aqui você pagará a taxa de conservação diária (*Conservation Fee*: ZAR 602 por adulto/dia - *Tabela Oficial 2026*). Podem pedir passaporte.
 *   **13:00 - 15:00:** O trajeto do portão até o lodge já é um *Self-Drive Safari* (~50km). Vá no limite de velocidade do parque (50km/h no asfalto, 40km/h na terra).
@@ -248,7 +266,7 @@ A estratégia aqui é um mix inteligente: 2 noites de Glamour/Luxo (Mdluli) segu
         *   **Forma de pagamento:** À vista via cartão de crédito.
         *   **Contatos e Mídia:** 
             *   Endereço: Pretoriuskop Rest Camp Area, Kruger National Park. (Recepção: 06h30 - 17h00).
-            *   Mídia/Maps: [Localização no Google Maps](https://maps.app.goo.gl/YtqFkP8Rz7nK4V9Z7) | [Vídeos YouTube](https://www.youtube.com/results?search_query=Mdluli+Safari+Lodge). | [Site Oficial](https://mdlulisafarilodge.co.za/)
+            *   Mídia/Maps: [Localização no Google Maps](https://www.google.com/maps/search/?api=1&query=Mdluli+Safari+Lodge) | [Vídeos YouTube](https://www.youtube.com/results?search_query=Mdluli+Safari+Lodge). | [Site Oficial](https://mdlulisafarilodge.co.za/)
         *   **Inclusos:** Jantar. (Check-out dia 17/03 às 10h).
 *   **16:00 - 19:00 (Atividade Sugerida):** **Sunset Game Drive**. Safari guiado pelo lodge focado no pôr do sol (ZAR 1.170 por pessoa, inclui drink no mato). *Dica: Solicite a reserva dessa atividade previamente por e-mail: whatsapp/reservations@mdlulisafarilodge.co.za.*
 *   **19:30:** Jantar no lodge (Incluído na tarifa). O "Boma Dinner" (jantar ao redor do fogo) é excelente.
@@ -311,7 +329,7 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 
 | Opção | Estilo | Vibe | Preço (Est.) | Por Que Escolher? |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. [Summerfield Botanical Garden](https://summerfieldresort.com/)** | 💎 Jardim do Éden | Resort de luxo dentro de um jardim botânico tropical premiado. | **R$ 1.800** | É a opção "Uau". O lugar é lindo, tem pavões andando soltos e quartos super luxuosos. [Maps](https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8) \| [Vídeo](https://www.youtube.com/watch?v=VxFo95bU2nQ) |
+| **1. [Summerfield Botanical Garden](https://summerfieldresort.com/)** | 💎 Jardim do Éden | Resort de luxo dentro de um jardim botânico tropical premiado. | **R$ 1.800** | É a opção "Uau". O lugar é lindo, tem pavões andando soltos e quartos super luxuosos. [Maps](https://www.google.com/maps/search/?api=1&query=Summerfield+Botanical+Garden+Eswatini) \| [Vídeo](https://www.youtube.com/watch?v=VxFo95bU2nQ) |
 | **2. [Foresters Arms](https://forestersarms.co.za/)** | 🌲 Colonial & Gastronômico | Hotel de campo nas montanhas (Mbabane). Lareiras e estilo inglês. | **R$ 1.300** | Pela **Comida**. O jantar de 7 pratos e o buffet de domingo são lendários. Vibe de "casa de avó chique". |
 | **3. [Mogi Boutique Hotel](https://mogihotel.com/)** | 🏔️ Vistas & Charme | Pequeno hotel boutique com vista para a montanha "Sheba's Breast". | **R$ 900** | Ótimo custo-benefício. Moderno, aconchegante e com uma piscina cênica incrível. |
 
@@ -324,7 +342,7 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 *   **12:00:** Fronteira **Jeppe's Reef**. (Rápida, organizada. Tenha a carta do carro em mãos).
 *   **13:00:** Parada Obrigatória: **Ngwenya Glass**.
     *   *O que é:* Fábrica de vidro reciclado famosa no mundo todo. Tem café e lojas.
-    *   **Horário:** 08h00 - 16h00 | **Google Maps:** [Ngwenya Glass](https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA) | **Vídeo:** [Fábrica Tour](https://www.youtube.com/watch?v=7M7n0J8q8wM)
+    *   **Horário:** 08h00 - 16h00 | **Google Maps:** [Ngwenya Glass](https://www.google.com/maps/search/?api=1&query=Ngwenya+Glass+Eswatini) | **Vídeo:** [Fábrica Tour](https://www.youtube.com/watch?v=7M7n0J8q8wM)
     *   **Dica:** Tudo feito com vidro reciclado e você pode assistir os artesãos soprando o vidro.
 *   **15:00:** Check-in no Hotel escolhido (Ezulwini Valley).
 *   **Tarde:** Relaxar nos jardins ou piscina. O lugar convida a não fazer nada.
@@ -352,7 +370,7 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 *   **13:00:** Chegada em Port Elizabeth (PLZ). Aeroporto pequeno e rápido.
 *   **21/03: Retirada Carro 2 - [Sixt](https://www.sixt.com/) (Garden Route)**
     *   **📍 Onde:** Atravesse a rua na saída do terminal. O prédio da Sixt (Sani Sixt) fica à direita.
-    *   **Horário:** 07h00 - 20h00 | **Google Maps:** [Sixt PLZ](https://maps.app.goo.gl/YtqFkP8Rz7nK4V9Z7)
+    *   **Horário:** 07h00 - 20h00 | **Google Maps:** [Sixt PLZ](https://www.google.com/maps/search/?api=1&query=Sixt+Rent+a+Car+Port+Elizabeth+Airport)
     *   **💎 Dica de Ouro (Status Match):** 
         *   **Visa Infinite:** Use o [Landing Page Sixt Visa](https://www.sixt.com/visainfinitecemea) para match automático para **Platinum**.
         *   **Mastercard Black:** Aplique via [Parceria Mastercard](https://www.sixt.com/mastercard-gold-platinum/) ou envie e-mail para o SAC da Sixt com foto do cartão físico.
@@ -360,7 +378,7 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
     *   **Carro:** VW Polo Vivo (Automático).
 *   **15:00:** Check-in no Hotel.
 *   **Hospedagem (Links):**
-    *   [Radisson Blu Port Elizabeth](https://www.radissonhotels.com/en-us/hotels/radisson-blu-port-elizabeth): De frente pro mar, moderno. [Maps](https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA) | [Vídeo](https://www.youtube.com/watch?v=M9Uv2bE0m4s) | **Dica:** Caminhe no calçadão em frente cedinho.
+    *   [Radisson Blu Port Elizabeth](https://www.radissonhotels.com/en-us/hotels/radisson-blu-port-elizabeth): De frente pro mar, moderno. [Maps](https://www.google.com/maps/search/?api=1&query=Radisson+Blu+Hotel+Port+Elizabeth) | [Vídeo](https://www.youtube.com/watch?v=M9Uv2bE0m4s) | **Dica:** Caminhe no calçadão em frente cedinho.
     *   [The Beach Hotel](https://www.thebeachhotel.co.za/): Clássico, ao lado do Ginger.
     *   [The Boardwalk](https://suninternational.com/boardwalk/): Resort com cassino e shopping.
 *   **Jantar em Port Elizabeth (Summerstrand):**
@@ -376,17 +394,17 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 
 ### **22/03 (Domingo): Plettenberg Bay**
 *   **Manhã:** Estrada curta (2h) até Plett. Parada na **Bloukrans Bridge** (Maior Bungee Jump de ponte do mundo - pare pra olhar, pule se tiver coragem!).
-    *   **Horário:** 09h00 - 17h00 | **Google Maps:** [Bloukrans](https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA) | **Vídeo:** [Bungee Jump](https://www.youtube.com/watch?v=68T0j_1Kqg8)
+    *   **Horário:** 09h00 - 17h00 | **Google Maps:** [Bloukrans Bridge](https://www.google.com/maps/search/?api=1&query=Bloukrans+Bridge+Bungee+Jump) | **Vídeo:** [Bungee Jump](https://www.youtube.com/watch?v=68T0j_1Kqg8)
     *   **Dica:** Você não precisa pular! Pode só acompanhar na ponte caminhando pela passarela de metal vazada.
 *   **Tarde Inteira:** **Tsitsikamma National Park**. Caminhada até as **Suspension Bridges** (Pontes Suspensas).
     *   *Dica da Dani:* Deixe o máximo de tempo possível para este momento. O parque é belíssimo e enorme, ir com pressa é um erro.
-*   **Hospedagem:** **[The Bungalow Plett](https://thebungalowplett.co.za/)** (3 noites - Base fixa "Pé na areia"). [Maps](https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8) | [Vídeo](https://www.youtube.com/watch?v=xZ_sXoHwqD8)
+*   **Hospedagem:** **[The Bungalow Plett](https://thebungalowplett.co.za/)** (3 noites - Base fixa "Pé na areia"). [Maps](https://www.google.com/maps/search/?api=1&query=The+Bungalow+Plettenberg+Bay) | [Vídeo](https://www.youtube.com/watch?v=xZ_sXoHwqD8)
     *   **Dica:** Tome o café da manhã devagar. A vibe praiana aqui (The Hub) é a cara da Garden Route chique no verão.
     *   **💻 Reserva:** [Booking.com](https://www.booking.com/hotel/za/the-bungalow-plettenberg-bay.html) ou [Site Oficial](https://thebungalowplett.co.za/).
 
 ### **23/03 (Segunda): Robberg Peninsula**
 *   **Manhã:** A trilha de **Robberg Nature Reserve**.
-    *   **Horário:** 07h00 - 18h00 | **Google Maps:** [Robberg](https://maps.app.goo.gl/YtqFkP8Rz7nK4V9Z7) | **Vídeo:** [Robberg Trail](https://www.youtube.com/watch?v=e_k9bO3KqjM)
+    *   **Horário:** 07h00 - 18h00 | **Google Maps:** [Robberg](https://www.google.com/maps/search/?api=1&query=Robberg+Nature+Reserve) | **Vídeo:** [Robberg Trail](https://www.youtube.com/watch?v=e_k9bO3KqjM)
     *   *Dica:* É a caminhada costeira mais bonita da África. Leve água e boné. Faça a trilha circular média nas dunas!
 *   **Tarde:** Praia ou piscina.
 *   **Jantar:** **Enrico's** (Keurboomstrand). Italiano no deck, pôr do sol clássico. Tem fila, chegue cedo!
@@ -402,7 +420,7 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 
 ### **25/03 (Quarta): A Longa Estrada Cênica**
 *   **Rota:** Plett -> Wilderness (**Map of Africa Viewpoint**) -> Hermanus. (4h estrada).
-*   **Hospedagem:** **[The Marine Hermanus](https://www.themarinehotel.co.za/)** (1 noite). Clássico e de frente pro mar. [Maps](https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA) | [Vídeo](https://www.youtube.com/watch?v=bV7X_O5XvjI)
+*   **Hospedagem:** **[The Marine Hermanus](https://www.themarinehotel.co.za/)** (1 noite). Clássico e de frente pro mar. [Maps](https://www.google.com/maps/search/?api=1&query=The+Marine+Hermanus) | [Vídeo](https://www.youtube.com/watch?v=bV7X_O5XvjI)
     *   **Dica:** As baleias chegam até as pedras do hotel. Fique de olho da piscina! *(Aviso: a temporada forte costuma ser Junho-Novembro, mas a região é linda o ano todo. Informe-se perto da data).*
     *   **💻 Reserva:** [Site Oficial](https://www.themarinehotel.co.za/) ou [Booking.com](https://www.booking.com/hotel/za/the-marine.html).
 
@@ -416,11 +434,11 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 *   **Chegada Cape Town:** Check-in.
 *   **Hospedagem:** Airbnb Camps Bay (Dica Carol: "Vista Table Mountain") ou Hotel Boutique.
     *   **🏨 Opções Boutique:** [The Marly Boutique Hotel](https://themarly.co.za/) (5 estrelas luxo) ou [POD Camps Bay](https://www.pod.co.za/) (Design & Luxo).
-    *   **Detalhe The Marly:** Check-in 14h00 | [Maps](https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8) | [Vídeo](https://www.youtube.com/watch?v=9S_wH9H4eM8) | **Dica:** O restaurante Chinchilla que fica no topo do hotel é um dos mais hypados do pôr do sol.
+    *   **Detalhe The Marly:** Check-in 14h00 | [Maps](https://www.google.com/maps/search/?api=1&query=The+Marly+Boutique+Hotel+Camps+Bay) | [Vídeo](https://www.youtube.com/watch?v=9S_wH9H4eM8) | **Dica:** O restaurante Chinchilla que fica no topo do hotel é um dos mais hypados do pôr do sol.
 
 ### **27/03 (Sexta): Table Mountain & City**
 *   **Manhã:** **Table Mountain** (Bondinho). *Se estiver sol, vá!*
-    *   **Horário:** 08h00 - 19h00 (pode mudar por causa do vento) | **Google Maps:** [Table Mountain](https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA) | **Vídeo:** [Bondinho 360](https://www.youtube.com/watch?v=3I0T2fN6Mlc)
+    *   **Horário:** 08h00 - 19h00 (pode mudar por causa do vento) | **Google Maps:** [Table Mountain](https://www.google.com/maps/search/?api=1&query=Table+Mountain+Aerial+Cableway) | **Vídeo:** [Bondinho 360](https://www.youtube.com/watch?v=3I0T2fN6Mlc)
     *   **Dica:** Cordilheira formou as nuvens grossas (Toalha de Mesa)? Não suba. Tempo abriu limpo? Vá na hora!
 *   **Tarde/Noite:** **V&A Waterfront** e Zeitz MOCAA (Museu de Arte Contemporânea - arquitetura incrível).
     *   *Dica da Dani:* O Waterfront vale ir mais de uma vez na viagem. Voltem para almoçar, jantar e principalmente: **façam o passeio de barco no pôr do sol com champanhe.**
@@ -443,14 +461,14 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 ### **30/03 (Segunda): Mudança para os Vinhedos**
 *   **Manhã:** Check-out Cape Town. Ida para Franschhoek (1h).
 *   **Hospedagem (O Veredito do Especialista):**
-    *   **🚨 Babylonstoren:** [Google Maps](https://maps.app.goo.gl/o1v4VjA3YhR4w3mF7). **Status:** Quartos de 1 dorm. ESGOTADOS. Apenas chalés de 2 quartos (~R19.000/noite).
-    *   **🥈 Opção 2 (Autenticidade): [Boschendal](https://www.boschendal.com/)** - Estilo similar, custo-benefício imbatível (~R7.500) | [Maps](https://maps.app.goo.gl/P6H4Q8S8yH9K9G5A7).
-    *   **🥉 Opção 3 (Tradição): [Lanzerac](https://www.lanzerac.co.za/)** - Berço do Pinotage, luxo clássico (~R9.800) | [Maps](https://maps.app.goo.gl/D7K6S9H8G4J2L5N4).
+    *   **🚨 Babylonstoren:** [Google Maps](https://www.google.com/maps/search/?api=1&query=Babylonstoren+Wine+Estate). **Status:** Quartos de 1 dorm. ESGOTADOS. Apenas chalés de 2 quartos (~R19.000/noite).
+    *   **🥈 Opção 2 (Autenticidade): [Boschendal](https://www.boschendal.com/)** - Estilo similar, custo-benefício imbatível (~R7.500) | [Maps](https://www.google.com/maps/search/?api=1&query=Boschendal+Wine+Estate).
+    *   **🥉 Opção 3 (Tradição): [Lanzerac](https://www.lanzerac.co.za/)** - Berço do Pinotage, luxo clássico (~R9.800) | [Maps](https://www.google.com/maps/search/?api=1&query=Lanzerac+Wine+Estate).
 *   **Almoço:** **Babel** (Babylonstoren) ou **The Werf** (Boschendal).
 
 ### **31/03 (Terça): O Trem do Vinho & Favoritos da Carol**
 *   **Manhã/Tarde:** **Franschhoek Wine Tram** (Linha Navy ou Grey).
-    *   **Horário:** 09h00 - 17h00 | **Google Maps:** [Wine Tram](https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA) | **Vídeo:** [Wine Tram Tour](https://www.youtube.com/watch?v=v0L_W2C9r4M)
+    *   **Horário:** 09h00 - 17h00 | **Google Maps:** [Wine Tram](https://www.google.com/maps/search/?api=1&query=Franschhoek+Wine+Tram) | **Vídeo:** [Wine Tram Tour](https://www.youtube.com/watch?v=v0L_W2C9r4M)
     *   **Dica:** Use a linha Laranja (permite visitar Groot Drakenstein/Boschendal). Faça 3 a 4 paradas no máximo. *(Dica da Dani: Cada vinícola tem uma experiência diferente, como degustação de chocolates. Olhe no site do Tram as opções de cada parada para escolher as melhores!)*
 *   **Alternativa Carro (Roteiro Carol):**
     1.  **Lanzerac:** Favorita da Carol ("Pinotage imperdível, lugar lindo").
@@ -470,12 +488,12 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
     *   **South African Airways (SA 372):** 20:25 -> 22:25.
     *   *Chegada:* Tarde da noite em JNB.
 *   **Transfer/Uber:** Para o hotel (Sandton fica a 30min).
-*   **Hospedagem:** **Sandton Sun** (2 noites). Check-in 14h00. [Maps](https://maps.app.goo.gl/4Pj9R1fJ3ZQ3nFjHA) | [Vídeo](https://www.youtube.com/watch?v=vV7YJm74xKs)
-    *   *Dica:* Aproveite a conexão direta e coberta por dentro do hotel para o Sandton City Mall e Mandela Square. Check-in tardio, avise o hotel.
+*   **Hospedagem:** **Sandton Sun** (2 noites). Check-in 14h00. [Maps](https://www.google.com/maps/search/?api=1&query=Sandton+Sun+Hotel+Johannesburg) | [Vídeo](https://www.youtube.com/watch?v=vV7YJm74xKs)
+    *   *Dica:* Aproveite a conexão direta e coberta por dentro do hotel para o Sandton City Mall e Mandela Square. Check-in tardio, avise o hotel. [Maps](https://www.google.com/maps/search/?api=1&query=Sandton+Sun+Hotel+Johannesburg)
 
 ### **02/04 (Quinta): Soweto & Last Shopping**
 *   **Manhã:** Tour Guiado em **Soweto** (Bike ou Tuk-tuk). Visita à casa de Mandela. Almoço na Vilakazi Street.
-    *   **Horário:** Manhã (09h00 - 13h00) | **Google Maps:** [Soweto](https://maps.app.goo.gl/wJ1qZ73X2D2g9M9Z8) | **Vídeo:** [Soweto Tour](https://www.youtube.com/watch?v=H7J_A9j2eN0)
+    *   **Horário:** Manhã (09h00 - 13h00) | **Google Maps:** [Soweto](https://www.google.com/maps/search/?api=1&query=Vilakazi+Street+Soweto) | **Vídeo:** [Soweto Tour](https://www.youtube.com/watch?v=H7J_A9j2eN0)
     *   **Dica:** Entenda a força e energia do Soweto. Não perca a rua onde viveram Mandela e Desmond Tutu. *(Aviso da Dani: O tour é espetacular na parte histórica, mas a carga emocional é bem pesada, vá preparado).*
 *   **Tarde:** Compras no Sandton City (Nelson Mandela Square).
 *   **Noite:** Jantar de despedida no **Zioux** (vibe "selva chique") ou **The Grillhouse** (Melhor carne).
@@ -611,7 +629,6 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 
 ### 👩 PAULA PORTO MOREM — Mala de Mão (8kg máx · 55x35x25cm)
 
-> *Nota importante: Paula tem restrição alimentar (sem glúten, sem lactose — confirmado nas passagens SAA). Ver seção de suplementos para versões adequadas.*
 
 #### 👚 Tops & Blusas (7 peças)
 | Peça | Cor | Tecido | Uso Principal |
@@ -726,11 +743,6 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 | Colírio hidratante (soro fisiológico) | 1 (10ml) | Olhos secos no avião e poeira |
 | **Melatonina 5mg** | 10 comp | Ajuste de fuso horário nos primeiros 2-3 dias (Africa do Sul = Brasil -5h) |
 
-**Para Paula (restrição sem glúten/sem lactose):**
-| Item | Qtd | Observação |
-| :--- | :--- | :--- |
-| Enzimas digestivas (Lactase + Protease) | 1 frasco (30 caps) | Para situações de contaminação cruzada em restaurantes locais |
-| Antiácido sem glúten | 10 comp | Confirmar "gluten-free" no rótulo (ex: Eno, confirmar composição) |
 
 #### 🩹 Kit Primeiros Socorros
 - **10x Curativos (band-aids)** sortidos (pequenos + maiores)
@@ -746,13 +758,13 @@ Não é só um carimbo no passaporte. Eswatini (antiga Suazilândia) quebra a mo
 
 *Estratégia: Levar quantidade para **10-12 dias**. Comprar o restante em **Dischem** (Joburg, Cape Town, Port Elizabeth) — maior rede de suplementos da Africa do Sul, com variedade igual ou maior que o Brasil e preços competitivos.*
 
-> **⚠️ Atenção Paula:** Whey protein comum contém lactose. Use **Whey Isolado (ISO)** ou **Proteína de Ervilha/Arroz**. Verificar também a creatina (maioria é naturalmente sem lactose/glúten, mas confirmar marca).
+> **⚠️ Estratégia de Suplementos:** Levar o que gosta ou o que já está na rotina.
 
 > **⚠️ Regra IATA:** Pós acima de 350ml devem ir na **bagagem despachada** nos voos SAA (que já está incluída). Planeje isso na hora de fazer as malas.
 
 | Suplemento | Jobim | Paula | Formato Ideal |
 | :--- | :--- | :--- | :--- |
-| **Whey Protein** | ~300g em zip-lock (12 doses) | **~300g Whey Isolado ou Proteína Vegetal** (sem lactose) | Zip-lock hermético etiquetado ou mini-shaker. **Vai na bagagem despachada SAA se a quantidade for maior.** |
+| **Whey Protein** | ~300g em zip-lock (12 doses) | ~300g em zip-lock | Zip-lock hermético etiquetado ou mini-shaker. **Vai na bagagem despachada SAA se a quantidade for maior.** |
 | **Creatina Monohidratada** | 120g (5g/dia × 24 dias) | 120g | Pote plástico pequeno com etiqueta clara |
 | **Ômega 3 EPA/DHA** | 30 cápsulas | 30 cápsulas | Podem compartilhar 1 frasco de 60 caps |
 | **Vitamina D3 + K2** | 30 cápsulas | 30 cápsulas | Pote compacto |

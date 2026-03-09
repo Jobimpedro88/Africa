@@ -10,11 +10,11 @@ checklist: true
 rating: 5
 
 links:
-  googleMaps: ''
+  googleMaps: 'https://www.google.com/maps/search/?api=1&query=Bourke's+Luck+Potholes'
   official: ''
 details:
   tips: >-
-    Leve câmera para as formações rochosas esculpidas pela água.
+    ZAR 150. Encontro dos rios Treur (tristeza) e Blyde (alegria).
 ---
 
-Encontro dos rios Treur e Blyde.
+Formações cilíndricas esculpidas pela erosão na pedra vermelha.

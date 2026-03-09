@@ -10,11 +10,11 @@ checklist: true
 rating: 5
 
 links:
-  googleMaps: ''
+  googleMaps: 'https://www.google.com/maps/search/?api=1&query=Three+Rondavels+Blyde+River+Canyon'
   official: ''
 details:
   tips: >-
-    A melhor luz para fotos é no final da tarde ou começo da manhã.
+    Chegue às 14:00 para a melhor luz fotográfica. ZAR 90.
 ---
 
-O terceiro maior cânion do mundo.
+O terceiro maior cânion do mundo, com formações que lembram cabanas africanas.

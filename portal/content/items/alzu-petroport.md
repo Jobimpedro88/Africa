@@ -10,7 +10,7 @@ checklist: true
 rating: 5
 
 links:
-  googleMaps: 'https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA'
+  googleMaps: 'https://www.google.com/maps/search/?api=1&query=Alzu+Petroport+N4+South+Africa'
   official: 'https://www.alzu.co.za/petroport/'
 details:
   tips: >-

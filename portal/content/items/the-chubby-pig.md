@@ -5,16 +5,16 @@ locations: []
 coordinates:
   lat: -24.67
   lng: 30.81
-tags: ["Panorama Route","Descolado"]
+tags: ["Panorama Route","Beira-Rio"]
 checklist: true
 rating: 5
 
 links:
-  googleMaps: ''
+  googleMaps: 'https://www.google.com/maps/search/?api=1&query=The+Chubby+Pig+Bourke's+Luck'
   official: ''
 details:
   tips: >-
-    Comida boa com vista para as montanhas e rio.
+    Peça o T-Bone Steak ou o Chubby Burger. Milkshakes artesanais imperdíveis. R150-R280.
 ---
 
-Local perfeito para almoço na Panorama Route.
+Deck sobre o rio Treur com comida caseira de alta qualidade.

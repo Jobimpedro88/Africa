@@ -16,7 +16,7 @@ const items = [
         type: 'Flight',
         coordinates: { lat: -23.4345, lng: -46.4692 },
         tags: ['Voo', 'VIP'],
-        links: { official: 'https://www.latamairlines.com/' },
+        links: { official: 'https://www.latamairlines.com/br/pt/experiencia/prepare-sua-viagem/bagagem/bagagem-despachada' },
         details: { tips: 'Salas VIP: Aeroportos VIP Club (BSB), Safra ou W Premium (GRU). Voo LA 8058.' },
         content: 'Voo direto para Johannesburg. Lembre-se do fuso de +5h.'
     },
@@ -27,6 +27,7 @@ const items = [
         type: 'Transport',
         coordinates: { lat: -26.1333, lng: 28.2307 },
         tags: ['Aluguel'],
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Green+Motion+OR+Tambo+Airport' },
         details: { tips: 'Meet & Greet (Procure o agente no desembarque). Peça a Letter of Authority para Eswatini!' },
         content: 'Carro para a primeira etapa (Panorama e Kruger).'
     },
@@ -36,7 +37,7 @@ const items = [
         type: 'Dining',
         coordinates: { lat: -25.8236, lng: 29.7892 },
         tags: ['Na Estrada'],
-        links: { googleMaps: 'https://maps.app.goo.gl/1U1sT2jJ6ZQ3nFjHA', official: 'https://www.alzu.co.za/petroport/' },
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Alzu+Petroport+N4+South+Africa', official: 'https://www.alzu.co.za/petroport/' },
         details: { tips: "Peça um lanche no Nando's e veja os Rinocerontes na varanda!" },
         content: 'Melhor parada da N4, com mini-safari gratuito.'
     },
@@ -106,8 +107,9 @@ const items = [
         type: 'Activity',
         coordinates: { lat: -24.8778, lng: 30.8889 },
         tags: ['Mirante'],
-        details: { tips: 'Não pare no primeiro mirante, suba até a Rain Forest (Floresta Tropical).' },
-        content: 'Vista panorâmica do Lowveld a 900m de altura.'
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=God\'s+Window+Graskop' },
+        details: { tips: 'Não pare no primeiro mirante, suba até a Rain Forest (Floresta Tropical). ZAR 70 (Cash).' },
+        content: 'Vista panorâmica do Lowveld a 900m de altura. Melhor evitar se houver neblina.'
     },
     {
         slug: 'bourkes-luck',
@@ -115,8 +117,9 @@ const items = [
         type: 'Activity',
         coordinates: { lat: -24.6738, lng: 30.8113 },
         tags: ['Natureza'],
-        details: { tips: 'Leve câmera para as formações rochosas esculpidas pela água.' },
-        content: 'Encontro dos rios Treur e Blyde.'
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Bourke\'s+Luck+Potholes' },
+        details: { tips: 'ZAR 150. Encontro dos rios Treur (tristeza) e Blyde (alegria).' },
+        content: 'Formações cilíndricas esculpidas pela erosão na pedra vermelha.'
     },
     {
         slug: 'three-rondavels',
@@ -124,17 +127,29 @@ const items = [
         type: 'Activity',
         coordinates: { lat: -24.5684, lng: 30.8037 },
         tags: ['Mirante', 'Cânion'],
-        details: { tips: 'A melhor luz para fotos é no final da tarde ou começo da manhã.' },
-        content: 'O terceiro maior cânion do mundo.'
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Three+Rondavels+Blyde+River+Canyon' },
+        details: { tips: 'Chegue às 14:00 para a melhor luz fotográfica. ZAR 90.' },
+        content: 'O terceiro maior cânion do mundo, com formações que lembram cabanas africanas.'
     },
     {
         slug: 'the-chubby-pig',
         title: 'The Chubby Pig',
         type: 'Dining',
         coordinates: { lat: -24.6700, lng: 30.8100 },
-        tags: ['Panorama Route', 'Descolado'],
-        details: { tips: 'Comida boa com vista para as montanhas e rio.' },
-        content: 'Local perfeito para almoço na Panorama Route.'
+        tags: ['Panorama Route', 'Beira-Rio'],
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=The+Chubby+Pig+Bourke\'s+Luck' },
+        details: { tips: 'Peça o T-Bone Steak ou o Chubby Burger. Milkshakes artesanais imperdíveis. R150-R280.' },
+        content: 'Deck sobre o rio Treur com comida caseira de alta qualidade.'
+    },
+    {
+        slug: 'kadisi-restaurant',
+        title: 'Kadisi Restaurant',
+        type: 'Dining',
+        coordinates: { lat: -24.5600, lng: 30.8100 },
+        tags: ['Panorama Route', 'Vista'],
+        links: { googleMaps: 'https://www.google.com/maps/search/?api=1&query=Kadisi+Restaurant+Blyde+Canyon' },
+        details: { tips: 'Dentro do Blyde Canyon Forever Resort. Vista espetacular do cânion.' },
+        content: 'Ótima opção para almoço ou lanche com vista panorâmica.'
     },
     // --- Day 5-6 ---
     {
@@ -454,7 +469,7 @@ const itinerary = [
     { day: 1, date: "11/03/2026", location: "Brasil -> África", summary: "Em Trânsito", selectedItems: ["gru-latam"], alternativeItems: [] },
     { day: 2, date: "12/03/2026", location: "Dullstroom", summary: "Desembarque & Estrada", selectedItems: ["jnb-greenmotion", "alzu-petroport", "cinzaco-accommodation", "mrs-simpsons"], alternativeItems: [] },
     { day: 3, date: "13/03/2026", location: "Graskop", summary: "A Rota das Cachoeiras", selectedItems: ["mac-mac-falls", "the-glass-house", "graskop-gorge", "angels-view"], alternativeItems: [] },
-    { day: 4, date: "14/03/2026", location: "Panorama Route", summary: "Mirantes Clássicos", selectedItems: ["gods-window", "bourkes-luck", "three-rondavels", "the-chubby-pig"], alternativeItems: [] },
+    { day: 4, date: "14/03/2026", location: "Panorama Route", summary: "Mirantes Clássicos (Luz Ideal)", selectedItems: ["gods-window", "the-chubby-pig", "bourkes-luck", "three-rondavels"], alternativeItems: ["kadisi-restaurant"] },
     { day: 5, date: "15/03/2026", location: "Kruger Sul", summary: "Entrada e Phabeni", selectedItems: ["mdluli-safari"], alternativeItems: [] },
     { day: 6, date: "16/03/2026", location: "Kruger Sul", summary: "O Dia do Big 5", selectedItems: ["mdluli-safari"], alternativeItems: [] },
     { day: 7, date: "17/03/2026", location: "Kruger Central", summary: "Mudança para Satara", selectedItems: ["tshokwane-picnic", "sleepover-orpen"], alternativeItems: [] },
