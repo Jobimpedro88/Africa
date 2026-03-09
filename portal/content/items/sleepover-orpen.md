@@ -14,7 +14,7 @@ links:
   official: ''
 details:
   tips: >-
-    Use a rota S100 perto de Satara para as melhores chances de ver felinos.
+    Hospedagem Confirmada (Agoda ID: 976704298). Pago via Wise. Use a rota S100 perto de Satara para as melhores chances de ver felinos.
 ---
 
-Hospedagem prática próxima ao portão de Orpen.
+Hospedagem prática e moderna colada ao portão de Orpen. Ideal p/ safári intenso.
